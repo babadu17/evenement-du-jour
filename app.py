@@ -1,4 +1,5 @@
 from flask import Flask, request, render_template
+from time import strptime
 
 app = Flask(__name__)
 
@@ -7,3 +8,4 @@ def paragaphe():
           "19/9":"kuhygfjhdrfgdrsjhyer"
          }
   
+ return render_template("index.html", texte=dico(strptime())
