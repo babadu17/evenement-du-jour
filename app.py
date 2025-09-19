@@ -8,4 +8,7 @@ def paragaphe():
           "19/9":"kuhygfjhdrfgdrsjhyer"
          }
   
- return render_template("index.html", texte=dico(strptime(%j)+"/"+strptime(%m))
+   return render_template("index.html", texte=dico(strptime(%j)+"/"+strptime(%m))
+
+if __name__ == "__main__":
+    app.run(host="0.0.0.0", port=5000)
