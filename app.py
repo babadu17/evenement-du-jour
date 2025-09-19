@@ -10,7 +10,7 @@ def index():
     today = datetime.today().strftime("%m-%d")
 
     # Charger le fichier JSON
-    with open("evenements.json", "r", encoding="utf-8") as f:
+    with open("evenement.json", "r", encoding="utf-8") as f:
         data = json.load(f)
 
     # Chercher l’événement correspondant
