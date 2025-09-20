@@ -1,65 +1,15 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Événement du jour</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background: linear-gradient(to right, #f9f9f9, #eef3f7);
-            margin: 0;
-            padding: 0;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            min-height: 100vh;
-        }
-
-        .container {
-            background: #fff;
-            padding: 30px 40px;
-            border-radius: 15px;
-            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
-            max-width: 600px;
-            text-align: center;
-        }
-
-        h1 {
-            color: #2c3e50;
-            margin-bottom: 20px;
-        }
-
-        ul {
-            list-style: none;
-            padding: 0;
-        }
-
-        li {
-            background: #f4f6f9;
-            margin: 10px 0;
-            padding: 15px;
-            border-radius: 8px;
-            font-size: 1.1rem;
-            color: #333;
-            text-align: left;
-            transition: transform 0.2s, background 0.3s;
-        }
-
-        li:hover {
-            background: #e0ebff;
-            transform: translateX(5px);
-        }
-    </style>
+  <meta charset="UTF-8">
+  <title>Événement du jour</title>
 </head>
 <body>
-    <div class="container">
-        <h1>📅 Événements du jour</h1>
-        <ul>
-            {% for event in events %}
-                <li>{{ event }}</li>
-            {% endfor %}
-        </ul>
-    </div>
+  <h1>📅 Événements du jour</h1>
+  <ul>
+    {% for event in events %}
+      <li><a href="{{ event.url }}" target="_blank">{{ event.text }}</a></li>
+    {% endfor %}
+  </ul>
 </body>
 </html>
