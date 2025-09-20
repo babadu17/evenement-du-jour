@@ -16,7 +16,7 @@ def index():
     # Chercher l’événement correspondant
     event = data.get(today, "Aucun événement enregistré pour aujourd'hui.")
 
-    return render_template("index.html",aujourd'hui=today, event=event)
+    return render_template("index.html",event=event)
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000)
