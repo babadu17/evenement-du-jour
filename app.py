@@ -6,17 +6,13 @@ app = Flask(__name__)
 
 @app.route("/")
 def index():
-    # Récupérer la date du jour au format MM-DD
     today = datetime.today().strftime("%m-%d")
-
+    
     # Charger le fichier JSON
-    with open("evenement.json", "r", encoding="utf-8") as f:
-        data = json.load(f)
-
-    # Chercher l’événement correspondant
-    event = data.get(today, "Aucun événement enregistré pour aujourd'hui.")
-
-    return render_template("index.html",date=today, text=event)
-
-if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=5000)
+    with open("events.json", "r", encoding="utf-8") as f:
+        events = json.load(f)
+    
+    # Récupérer la liste d'événements du jour
+    todays_events = events.get(today, ["Aucun événement trouvé pour aujourd'hui."])
+    
+    return render_template("index.html", events=todays_events)
