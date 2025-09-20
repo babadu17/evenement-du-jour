@@ -1,11 +1,16 @@
 {
   "09-20": [
-    "1792 : Proclamation de la Première République française",
-    "1946 : Première édition du Festival de Cannes",
-    "1973 : Billie Jean King bat Bobby Riggs au 'Battle of the Sexes'"
-  ],
-  "09-21": [
-    "1792 : Victoire de Valmy",
-    "1991 : Indépendance de l’Arménie"
+    {
+      "text": "1792 : Proclamation de la Première République française",
+      "url": "https://fr.wikipedia.org/wiki/Premi%C3%A8re_R%C3%A9publique_fran%C3%A7aise"
+    },
+    {
+      "text": "1946 : Première édition du Festival de Cannes",
+      "url": "https://fr.wikipedia.org/wiki/Festival_de_Cannes"
+    },
+    {
+      "text": "1973 : Billie Jean King bat Bobby Riggs",
+      "url": "https://fr.wikipedia.org/wiki/Battle_of_the_Sexes_(tennis)"
+    }
   ]
 }
