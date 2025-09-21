@@ -1,16 +1,21 @@
 {
-  "09-21": [
+  "21-09": [
     {
-      "text": "1792 : Proclamation de la Première République française",
-      "url": "https://fr.wikipedia.org/wiki/Premi%C3%A8re_R%C3%A9publique_fran%C3%A7aise"
+      "year": "1792",
+      "text": "Proclamation de la Première République française",
+      "link": "https://fr.wikipedia.org/wiki/Premi%C3%A8re_R%C3%A9publique"
     },
     {
-      "text": "1946 : Première édition du Festival de Cannes",
-      "url": "https://fr.wikipedia.org/wiki/Festival_de_Cannes"
-    },
+      "year": "1937",
+      "text": "Publication du Hobbit de J.R.R. Tolkien",
+      "link": "https://fr.wikipedia.org/wiki/Le_Hobbit"
+    }
+  ],
+  "20-09": [
     {
-      "text": "1973 : Billie Jean King bat Bobby Riggs",
-      "url": "https://fr.wikipedia.org/wiki/Battle_of_the_Sexes_(tennis)"
+      "year": "1519",
+      "text": "Départ de l’expédition de Magellan",
+      "link": "https://fr.wikipedia.org/wiki/Ferdinand_Magellan"
     }
   ]
 }
