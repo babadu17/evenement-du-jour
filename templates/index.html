@@ -10,23 +10,19 @@
 </head>
 <body>
   <header>
-    📅 Anniversaire du jour
+    📅 Anniversaire historique du jour
   </header>
 
-  <main>
-    <ul>
-      <div class="boite">
-        {% for event in events %}
-          <div class="boites">
-            <li><a href="{{ event.url }}" target="_blank">{{ event.text }}</a></li>
-          </div>
-        {% endfor %}
-      </div>
-    </ul>
-  </main>
+  <div class="container">
+      {% for event in events %}
+        <a href=event.url target="_blank">
+           <button>event.text</button>
+        </a>
+      {% endfor %}
+  </div>
 
   <footer>
-    Site codé par Bary Bastian — événements historiques écrits par 
+    Site codé par Bary Bastian — Événements historiques écrits par 
     <a href="https://www.thebookedition.com/fr/14606_philippe-evrard" target="_blank">Evrard Philippe</a>
   </footer>
 </body>
