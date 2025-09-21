@@ -2,30 +2,26 @@
 <html lang="fr">
 <head>
   <meta charset="UTF-8">
-  <title>Événement du jour</title>
-  <meta name="description" content="anniversaire d'événement historique">
-  <link rel="icon" href="static/logo.png" type="image/x-icon">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="static/style.css">
+  <title>Événements du jour</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
 </head>
 <body>
-  <header>
-    📅 Anniversaire historique du jour
-  </header>
-
   <div class="container">
+    <h1>Événements historiques du {{ now.strftime('%d %B') }}</h1>
+    <div class="events-grid">
       {% for event in events %}
-        <a href=event.url target="_blank">
-          <div class="enfant">
-            <p>{{ event.text }}</p>
-          </div>
+        <a href="{{ event['link'] }}" target="_blank" class="event-card">
+          <h2>{{ event['year'] }}</h2>
+          <p>{{ event['text'] }}</p>
         </a>
       {% endfor %}
+      {% if not events %}
+        <p>Aucun événement enregistré pour ce jour.</p>
+      {% endif %}
+    </div>
   </div>
-
   <footer>
-    Site codé par Bary Bastian — Événements historiques écrits par 
-    <a href="https://www.thebookedition.com/fr/14606_philippe-evrard" target="_blank">Evrard Philippe</a>
+    <p>© 2025 - Événements du jour</p>
   </footer>
 </body>
 </html>
