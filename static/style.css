@@ -1,22 +1,22 @@
-footer {
-      background: #ff6961;
-      color: white;
-      text-align: center;
-      padding: 15px;
-}
 html, body {
-      height: 100%;
-      margin: 0;
-    }
+  height: 100%;
+  margin: 0;
+}
 
-    body {
-      display: flex;
-      flex-direction: column;
-      min-height: 100vh;
-    }
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
 
-    main {
-      flex: 1;
-      padding: 20px;
-      background: #f0f0f0;
-    }
+main {
+  flex: 1; /* prend l'espace restant entre header et footer */
+  padding: 20px;
+}
+
+footer {
+  background: #333;
+  color: white;
+  text-align: center;
+  padding: 15px;
+}
