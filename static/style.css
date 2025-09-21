@@ -33,5 +33,9 @@ header {
 }
 
 div h1{
-  color : #ff6961;
+  color: #ff6961;
+}
+
+div buton{
+  border-radius: 8px;
 }
