@@ -4,10 +4,17 @@ import json
 
 app = Flask(__name__)
 
+# Charger les événements depuis events.json
+with open("events.json", "r", encoding="utf-8") as f:
+    events = json.load(f)
+
 @app.route("/")
-def index():
-    today = datetime.today().strftime("%m-%d")
-    with open("events.json", "r", encoding="utf-8") as f:
-        events = json.load(f)
-    todays_events = events.get(today, ["Aucun annivairesaire enregistrer aujourd'hui",""])
+def home():
+    # Date du jour (jour et mois)
+    today = datetime.now().strftime("%d-%m")
+    # Récupérer les événements correspondant
+    todays_events = events.get(today, [])
     return render_template("index.html", events=todays_events)
+
+if __name__ == "__main__":
+    app.run(host="0.0.0.0", port=5000, debug=True)
