@@ -22,12 +22,16 @@ footer {
   padding: 15px;
 }
 
+footer a {
+  color: white;
+}
+
 header {
   background: #ff6961;
   color: white;
   text-align: center;
 }
 
-a {
- color: white;
+div h1{
+  color : #ff6961;
 }
