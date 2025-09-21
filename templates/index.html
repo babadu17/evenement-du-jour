@@ -16,7 +16,9 @@
   <div class="container">
       {% for event in events %}
         <a href=event.url target="_blank">
-           <button>event.text</button>
+          <div class="enfant">
+            <p>{{ event.text }}</p>
+          </div>
         </a>
       {% endfor %}
   </div>
