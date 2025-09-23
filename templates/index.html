@@ -1,1 +1,42 @@
-
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta>charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Événement du jour</title>
+        <link rel="stylesheet" href="static/style.css">
+    </head>
+    <body>
+        <header>
+            <p>Les événements du jour</p>
+        </header>
+        {% for event in events %}
+            <a href="{{ event.link }}" target="_blank" class="evenement">
+                <div>
+                    <p>{{ event.année }} : {{ event.text }}</p>
+                </div>
+            </a>
+        {% endfor %}
+        <h2>À propos de ce site</h2>
+        <p class="text">
+            Ce site a été créé par <a href="https://mes-site.onrender.com" target="_blank">Bary Bastian</a>.
+            Les événements historique sont rediger par Evrard Philippe.
+            Qui a déjà écrit plusieurs livres d'histoire : <a href="https://www.coollibri.com/bibliotheque-en-ligne/philippe-evrard">Voici le lien</a>
+            L'herbergement est assuré par <a href="https://render.com" target="_blank">Render</a>.
+            Et le developpement a été realisé avec <a href="https://code.visualstudio.com" target="_blank">Visual Studio Code</a>.<br>
+        </p>
+        
+        <h2>Contacte en cas de probleme</h2>
+        <p class="text">
+            Si un probleme constatez, n'hesitez pas a me le signaler a l'adresse suivante : bastianbary17@icloud.com.
+        </p>
+        
+        <h2>Votre avi</h2>
+        <form action="/enregistrer_avis" method="post" class="avi">
+            <label for="avi">Laisser votre avis :</label><br>
+            <input type="text" name="avi" placeholder="Écrie ton avis ici..."><br>
+            <input type="submit" value="Envoyer votre commentaire">
+            <p>{{ message }}</p>
+        </form>
+    </body>
+</html>
