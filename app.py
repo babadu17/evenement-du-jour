@@ -28,11 +28,7 @@ def enregistrer_avis():
         cur.execute("INSERT INTO donnees (texte) VALUES (?)", (texte,))
         conn.commit()
 
-    return redirect(url_for("index"))
-
-@app.route("/index")
-def index():
-    return render_template("index.html")
+    return redirect(url_for("/"))
 
 @app.route("/liste")
 def liste():
