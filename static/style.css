@@ -1,5 +1,5 @@
 header {
-    background-color: rgb(177, 218, 223);
+    background-color: rgb(255, 230, 88);
     color: black;
     text-align: center;
     font-size: 40px;
@@ -7,7 +7,7 @@ header {
 }
  
 .evenement div{
-    background-color: rgb(177, 218, 223);
+    background-color: rgb(255, 230, 88);
     color: black;
     width: 80%;
     height: auto;
