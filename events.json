@@ -18,9 +18,19 @@
   ],
   "25-09": [
     {
-      "year": "1519",
-      "text": "Départ de l’expédition de Magellan",
-      "link": "https://fr.wikipedia.org/wiki/Ferdinand_Magellan"
+      "year": "275",
+      "text": "Marcus Claudius Tacite devient empereur romain.",
+      "link": "https://fr.wikipedia.org/wiki/Marcus_Claudius_Tacite"
+    }, 
+    {
+      "year": "1347",
+      "text": "Gaston Fébus déclare la neutralité de la principauté de Béarn dans la guerre de Cent Ans, un acte qui fait office de déclaration d'indépendance du Béarn.",
+      "link": "https://fr.wikipedia.org/wiki/Déclaration_d'indépendance_du_Béarn"
+    },
+    {
+      "year": "1513",
+      "text": "Vasco Núñez de Balboa découvre l'océan Pacifique.",
+      "link": "https://fr.wikipedia.org/wiki/Vasco_Núñez_de_Balboa"
     }
   ]
 }
