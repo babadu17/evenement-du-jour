@@ -1,14 +1,14 @@
 header {
-    background-color: goldenrod;
-    color: white;
+    background-color: rgb(177, 218, 223);
+    color: black;
     text-align: center;
     font-size: 40px;
     padding: auto;
 }
  
 .evenement div{
-    background-color: goldenrod;
-    color: white;
+    background-color: rgb(177, 218, 223);
+    color: black;
     width: 80%;
     height: auto;
     margin-left:10%;
@@ -49,7 +49,7 @@ text a {
 
 h2 {
     margin-left: 5%;
-    color:goldenrod;
+    color:rgb(27, 49, 217);
     margin-top: 5%;
 }
 
@@ -67,7 +67,7 @@ h2 {
 }
 
 .avi input[type="submit"] {
-    background-color: goldenrod;
+    background-color: rgb(236, 193, 85);
     color: white;
     border: none;
     border-radius: 4px;
