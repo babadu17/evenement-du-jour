@@ -2,6 +2,7 @@ from flask import *
 from datetime import datetime
 import json
 import sqlite3
+import webbrowser
 
 app = Flask(__name__)
 
@@ -27,8 +28,9 @@ def enregistrer_avis():
         cur.execute("CREATE TABLE IF NOT EXISTS donnees (id INTEGER PRIMARY KEY, texte TEXT)")
         cur.execute("INSERT INTO donnees (texte) VALUES (?)", (texte,))
         conn.commit()
+     
+    webbrowser.open("https://evenement-du-jour.onrender.com/")
 
-    return redirect(url_for("/"))
 
 @app.route("/liste")
 def liste():
