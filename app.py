@@ -11,12 +11,12 @@ with open("events.json", "r", encoding="utf-8") as f:
     events = json.load(f)
 
 @app.route("/")
-def home():
+def home(message = ""):
     # Date du jour (jour et mois)
     today = datetime.now().strftime("%d-%m")
     # Récupérer les événements correspondant
     todays_events = events.get(today, ["Aucun événement pour aujourd'hui"])
-    return render_template("index.html", events=todays_events)
+    return render_template("index.html", events=todays_events, message = message)
 
 @app.route("/enregistrer_avis", methods=["POST"])
 def enregistrer_avis():
@@ -28,9 +28,8 @@ def enregistrer_avis():
         cur.execute("CREATE TABLE IF NOT EXISTS donnees (id INTEGER PRIMARY KEY, texte TEXT)")
         cur.execute("INSERT INTO donnees (texte) VALUES (?)", (texte,))
         conn.commit()
-     
-    webbrowser.open("https://evenement-du-jour.onrender.com/")
-
+    
+    return home("Merci pour votre avis !")
 
 @app.route("/liste")
 def liste():
