@@ -19,6 +19,11 @@
                 </div>
             </a>
         {% endfor %}
+        {% if not events %}
+            <div>
+                <p>Aucun événement enregistrer aujourd'hui</p>
+            </div>
+        {% endif %}
 
         <h2>À propos de ce site</h2>
         <p class="text">
