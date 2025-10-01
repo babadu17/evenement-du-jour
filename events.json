@@ -1,27 +1,10 @@
 {
-  "24-09": [
-    {
-      "year": "1789",
-      "text": "A l'Académie royale prussienne des sciences, Martin Heinrich Klaproth présente sa découverte de l’uranium.",
-      "link": "https://fr.wikipedia.org/wiki/Martin_Heinrich_Klaproth"
-    },
-    {
-      "year": "1853",
-      "text": "la Nouvelle-Calédonie est proclamée colonie française.",
-      "link": "https://fr.wikipedia.org/wiki/Histoire_de_la_Nouvelle-Calédonie"
-    },
-    {
-      "year": "1941",
-      "text": "Création du Comité national français, instance de la France libre qui tient lieu de gouvernement en exil, de 1941 à 1943 (seconde guerre mondiale).",
-      "link": "https://fr.wikipedia.org/wiki/Comité_national_français"
-    }
-  ],
   "25-09": [
     {
       "year": "275",
       "text": "Marcus Claudius Tacite devient empereur romain.",
-      "link": "https://fr.wikipedia.org/wiki/Marcus_Claudius_Tacite"
-    }, 
+      "link": "https://fr.wikipedia.org/wiki/Commode_(empereur_romain)"
+    },
     {
       "year": "1347",
       "text": "Gaston Fébus déclare la neutralité de la principauté de Béarn dans la guerre de Cent Ans, un acte qui fait office de déclaration d'indépendance du Béarn.",
@@ -31,6 +14,203 @@
       "year": "1513",
       "text": "Vasco Núñez de Balboa découvre l'océan Pacifique.",
       "link": "https://fr.wikipedia.org/wiki/Vasco_Núñez_de_Balboa"
+    },
+    {
+      "year": "1683",
+      "text": "Naissance de  Jean-Philippe Rameau, compositeur français († 12 septembre 1764).",
+      "link": "https://fr.wikipedia.org/wiki/Jean-Philippe_Rameau"
+    },
+    {
+      "year": "1915",
+      "text": "Début de la seconde bataille de Champagne. Jour le plus meurtrier de l’histoire de France, avec 22 591 morts (première guerre mondiale).",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Champagne_(1915)"
+    },   
+    {
+      "year": "1992",
+      "text": "La N.A.S.A. lance Mars Observer.",
+      "link": "https://fr.wikipedia.org/wiki/Mars_Observer"
+    }
+  ],
+  "26-09": [
+    {
+      "year": "1350",
+      "text": "Couronnement du roi de France Jean II le Bon dans la cathédrale de Reims.",
+      "link": "https://fr.wikipedia.org/wiki/Jean_II_le_Bon"
+    }, 
+    {
+      "year": "1799",
+      "text": "Victoire du général Masséna, près du lac de Zurich (guerres de la Révolution française).",
+      "link": "https://fr.wikipedia.org/wiki/André_Masséna#Victoire_décisive_à_Zurich_et_siège_de_Gênes"
+    },
+    {
+      "year": "1897",
+      "text": "Naissance de  Paul VI, 260e pape de 1963 à 1978 († 6 août 1978).",
+      "link": "https://fr.wikipedia.org/wiki/Paul_VI"
+    },
+    {
+      "year": "1905",
+      "text": "Albert  Einstein publie sa théorie de la relativité restreinte.",
+      "link": "https://fr.wikipedia.org/wiki/Histoire_de_la_relativité_restreinte#Théorie_de_la_relativité_restreinte"
+    },
+    {
+      "year": "1918",
+      "text": "Début de l'offensive Meuse-Argonne, pendant la Première Guerre mondiale.",
+      "link": "https://fr.wikipedia.org/wiki/Offensive_Meuse-Argonne"
+    },
+    {
+      "year": "1957",
+      "text": "Création  à Broadway du spectacle musical 'West Side Story' qui deviendra un film à Hollywood en 1961.",
+      "link": "https://fr.wikipedia.org/wiki/West_Side_Story"
+    }
+  ],
+  "27-09": [
+    {
+      "year": "1601",
+      "text": "Naissance de  Louis XIII, le juste, roi de France de 1610 à 1643 († 14 mai 1643).",
+      "link": "https://fr.wikipedia.org/wiki/Louis_XIIIs"
+    },
+    {
+      "year": "1722",
+      "text": "Naissance de Samuel Adams, homme d'État, écrivain et philosophe américain, un des pères fondateurs des États-Unis d'Amérique († 2 octobre 1803).",
+      "link": "https://fr.wikipedia.org/wiki/Samuel_Adams"
+    },
+    {
+      "year": "1748",
+      "text": "Une ordonnance du roi Louis XV abolit l'institution des galères.",
+      "link": "https://fr.wikipedia.org/wiki/Galères_(peine)"
+    },
+    {
+      "year": "1791",
+      "text": "L'Assemblée constituante de 1789 vote l'émancipation des Juifs.",
+      "link": "https://fr.wikipedia.org/wiki/Émancipation_des_Juifs"
+    },
+    {
+      "year": "1810",
+      "text": "Défaite des Français à Buçaco (Portugal) face aux anglo-portugais, commandés par Wellington (guerres du Ier Empire).",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Buçaco"
+    },   
+    {
+      "year": "1825",
+      "text": "Inauguration du chemin de fer de Stockton et Darlington, première ligne de chemin de fer à utiliser des locomotives à vapeur et à transporter des voyageurs.",
+      "link": "https://fr.wikipedia.org/wiki/Chemin_de_fer_de_Stockton_et_Darlington"
+    },
+    {
+      "year": "1998",
+      "text": "Lancement officiel du moteur de recherche Google.",
+      "link": "https://fr.wikipedia.org/wiki/Google_(moteur_de_recherche)"
+    }
+  ],
+  "28-09": [
+    {
+      "year": "1781",
+      "text": "Début de la bataille de Yorktown, aux futurs États-Unis.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Yorktown"
+    },
+    {
+      "year": "1794",
+      "text": "Création de la future École polytechnique.",
+      "link": "https://fr.wikipedia.org/wiki/École_polytechnique_(France)"
+    },
+    {
+      "year": "1803",
+      "text": "Naissance de Prosper Mérimée, écrivain français († 23 septembre 1870).",
+      "link": "https://fr.wikipedia.org/wiki/Prosper_Mérimée"
+    },
+    {
+      "year": "1841",
+      "text": "Naissance de Georges Clemenceau, homme politique, médecin et journaliste français, président du Conseil des ministres († 24 novembre 1929).",
+      "link": "https://fr.wikipedia.org/wiki/Georges_Clemenceau"
+    },    
+    {
+      "year": "1939",
+      "text": "Prise  de Varsovie, et partage de la Pologne entre l'Allemagne et l'Union soviétique (Seconde Guerre mondiale).",
+      "link": "https://fr.wikipedia.org/wiki/Histoire_de_la_Pologne_pendant_la_Seconde_Guerre_mondiale#L.E2.80.99invasion_germano-sovi.C3.A9tique"
+    }
+  ],
+  "29-09": [
+    {
+      "year": "-106",
+      "text": "Naissance de Pompée, homme d'État romain († 28 septembre 48 av. J.-C.).",
+      "link": "https://fr.wikipedia.org/wiki/Pompée"
+    },
+    {
+      "year": "1747",
+      "text": "Naissance de  Miguel de Cervantes, écrivain espagnol († 23 avril 1616).",
+      "link": "https://fr.wikipedia.org/wiki/Miguel_de_Cervantes"
+    },
+    {
+      "year": "1758",
+      "text": "Naissance de  Horatio Nelson, amiral britannique († 21 octobre 1805).",
+      "link": "https://fr.wikipedia.org/wiki/Horatio_Nelson"
+    },
+    {
+      "year": "1918",
+      "text": "En acceptant les termes de l'Armistice de Thessalonique, la Bulgarie, vaincue, met un terme à sa participation à la Première Guerre mondiale.",
+      "link": "https://fr.wikipedia.org/wiki/Armistice_de_Thessalonique"
+    },    
+    {
+      "year": "1936",
+      "text": "En Espagne, la Junta de Defensa Nacional nomme le général Franco chef du gouvernement et commandant des forces armées, dans le camp nationaliste.",
+      "link": "https://fr.wikipedia.org/wiki/Francisco_Franco"
+    },
+    {
+      "year": "1938",
+      "text": "Accords de Munich, réunissant les démocrates britannique Chamberlain et français Daladier, chez les dictateurs italien Mussolini et allemand Hitler.",
+      "link": "https://fr.wikipedia.org/wiki/Accords_de_Munich"
+    }
+  ],
+  "30-09": [
+    {
+      "year": "489",
+      "text": "L'armée ostrogoth de Théodoric le Grand écrase celle de son ennemi Odoacre à la bataille de Vérone.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Vérone_(489)"
+    },
+    {
+      "year": "1732",
+      "text": "Naissance de Jacques Necker, financier et homme politique suisse († 9 avril 1804).",
+      "link": "https://fr.wikipedia.org/wiki/Jacques_Necker"
+    },
+    {
+      "year": "1772",
+      "text": "Première partition de la Pologne.",
+      "link": "https://fr.wikipedia.org/wiki/Partages_de_la_Pologne"
+    },
+    {
+      "year": "1859",
+      "text": "Le jour de la Saint-Jérôme, le chef apache venge sa famille assassinée par des Mexicains. Les cris des Mexicains invoquant saint Jérôme pour leur défense («Géronimo ! Géronimo !») l'inspirent, et il prend alors ce surnom.",
+      "link": "https://fr.wikipedia.org/wiki/Geronimo"
+    },    
+    {
+      "year": "1949",
+      "text": "Naissance de Michel Tognini, spationaute français.",
+      "link": "https://fr.wikipedia.org/wiki/Michel_Tognini"
+    }
+  ],
+  "31-09": [
+    {
+      "year": "-331",
+      "text": "Victoire d'Alexandre le Grand de Macédoine sur le Perse achéménide Darius III lors d'une bataille à Gaugamèles au nord de l'actuel Irak.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Gaugamèles"
+    },
+    {
+      "year": "1791",
+      "text": "En France, première séance de l'Assemblée législative.",
+      "link": "https://fr.wikipedia.org/wiki/Assemblée_nationale_législative_(Révolution_française)"
+    },
+    {
+      "year": "1800",
+      "text": "Traité de San Ildefonso, l'Espagne cède la Louisiane à la France.",
+      "link": "https://fr.wikipedia.org/wiki/Traité_de_San_Ildefonso_(1800)"
+    },
+    {
+      "year": "1881",
+      "text": "Naissance de William Edward Boeing, aviateur et pionnier américain de l’industrie aéronautique, fondateur de la compagnie Boeing († 28 septembre 1956).",
+      "link": "https://fr.wikipedia.org/wiki/William_Edward_Boeing"
+    },    
+    {
+      "year": "1949",
+      "text": "Proclamation, à Pékin, de la République populaire de Chine, sous l'autorité de Mao Tsé-Toung.",
+      "link": "https://fr.wikipedia.org/wiki/Histoire_de_la_république_populaire_de_Chine#Ère_de_Mao_Zedong_(1949-1976)"
     }
   ]
 }
