@@ -404,5 +404,27 @@
       "text": "Citroën présente la 2CV type A, au salon automobile de Paris.",
       "link": "https://fr.wikipedia.org/wiki/Citroën_2_CV"
     }
+  ],
+   "08-10": [
+    {
+      "year": "451",
+      "text": "Ouverture du concile de Chalcédoine.",
+      "link": "https://fr.wikipedia.org/wiki/Concile_de_Chalcédoine"
+    },
+    {
+      "year": "1517",
+      "text": "François Ier signe l'acte de naissance de la ville du Havre.",
+      "link": "https://fr.wikipedia.org/wiki/Le_Havre"
+    },
+    {
+      "year": "1871",
+      "text": "Début du grand incendie de Chicago.",
+      "link": "https://fr.wikipedia.org/wiki/Grand_incendie_de_Chicago"
+    },
+    {
+      "year": "1895",
+      "text": "Naissance de Juan Perón, militaire et homme politique argentin, président de la nation argentine, de 1946 à 1955, puis de 1973 à 1974 († 1er juillet 1974).",
+      "link": "https://fr.wikipedia.org/wiki/Juan_Perón"
+    }
   ]
 }
