@@ -6,14 +6,13 @@ import webbrowser
 
 app = Flask(__name__)
 
-# Charger les événements depuis events.json
-with open("events.json", "r", encoding="utf-8") as f:
-    events = json.load(f)
-
 @app.route("/")
 def home(message = ""):
     # Date du jour (jour et mois)
     today = datetime.now().strftime("%d-%m")
+    # Charger les événements depuis events.json
+    with open("events.json", "r", encoding="utf-8") as f:
+       events = json.load(f)
     # Récupérer les événements correspondant
     todays_events = events.get(today, ["Aucun événement pour aujourd'hui"])
     return render_template("index.html", events=todays_events, message = message)
