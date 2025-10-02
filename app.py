@@ -3,11 +3,12 @@ from datetime import datetime
 import json
 import sqlite3
 import webbrowser
+import os
 
 app = Flask(__name__)
 
 @app.route("/")
-def home(message = ""):
+def home():
     # Date du jour (jour et mois)
     today = datetime.now().strftime("%d-%m")
     # Charger les événements depuis events.json
@@ -19,16 +20,24 @@ def home(message = ""):
 
 @app.route("/enregistrer_avis", methods=["POST"])
 def enregistrer_avis():
-    texte = request.form["avi"]
+    avis = request.form.get("avis")
 
-    with sqlite3.connect("avis.db", timeout=5) as conn:
-        conn.execute("PRAGMA journal_mode=WAL;")
-        cur = conn.cursor()
-        cur.execute("CREATE TABLE IF NOT EXISTS donnees (id INTEGER PRIMARY KEY, texte TEXT)")
-        cur.execute("INSERT INTO donnees (texte) VALUES (?)", (texte,))
-        conn.commit()
-    
-    return home("Merci pour votre avis !")
+    if avis:
+        # Charger les avis existants
+        if os.path.exists("avis.json"):
+            with open("avis.json", "r", encoding="utf-8") as f:
+                data = json.load(f)
+        else:
+            data = []
+
+        # Ajouter le nouvel avis
+        data.append({"avis": avis})
+
+        # Sauvegarder dans le fichier
+        with open("avis.json", "w", encoding="utf-8") as f:
+            json.dump(data, f, indent=2, ensure_ascii=False)
+
+    return redirect("/")
 
 @app.route("/liste")
 def liste():
