@@ -74,3 +74,12 @@ h2 {
     cursor: pointer;
     margin-top: 5px;
 }
+
+.star { 
+    font-size: 40px;
+    cursor: pointer;
+    color: gray;
+}
+.star.active {
+    color: gold;
+}
