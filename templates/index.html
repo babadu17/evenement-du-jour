@@ -49,6 +49,13 @@
         <h2>Votre avis</h2>
         <form action="/enregistrer_avis" method="post" class="avis">
             <label for="avi">Laisser votre avis :</label><br>
+            <div id="stars">
+               <span class="star" data-value="1">★</span>
+               <span class="star" data-value="2">★</span>
+               <span class="star" data-value="3">★</span>
+               <span class="star" data-value="4">★</span>
+               <span class="star" data-value="5">★</span>
+            </div>
             <input type="text" name="avis" placeholder="Écris ton avis ici..."><br>
             <input id="avis" type="submit" value="Envoyer votre avis">
             <p>{{ message }}</p>
