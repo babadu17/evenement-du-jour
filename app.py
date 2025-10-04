@@ -25,7 +25,7 @@ def enregistrer_avis():
     avis = request.form.get("avis")       # texte de l'avis
     note = request.form.get("note")       # nombre d'étoiles
 
-    if avis and note:
+    if avis or note:
         contenu = f"{note} étoiles : {avis}"
 
         conn = sqlite3.connect("postgresql://avis_5iyd_user:mFFNunuA1B0ymaJ60VlhtiFLdjEYhatZ@dpg-d3gjlhe3jp1c73er6ptg-a/avis_5iyd")
