@@ -32,9 +32,6 @@ def enregistrer_avis():
         conn.execute("INSERT INTO avis (texte) VALUES (?)", (contenu,))
         conn.commit()
         conn.close()
-        flash("✅ Votre avis a été enregistré avec succès !")  # Message flash
-    else:
-        flash("⚠️ Veuillez écrire un avis et choisir une note.")
         
     return redirect("/")
 
