@@ -4,6 +4,7 @@ import json
 import sqlite3
 import webbrowser
 import os
+import psycopg2
 
 app = Flask(__name__)
 
