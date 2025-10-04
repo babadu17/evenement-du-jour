@@ -22,8 +22,8 @@ def home():
 
 @app.route("/enregistrer_avis", methods=["POST"])
 def enregistrer_avis():
-    avis = request.form.get("avis")       # texte de l'avis
-    note = request.form.get("note")       # nombre d'étoiles
+    avis = request.form.get("star")       # texte de l'avis
+    note = request.form.get("avis")       # nombre d'étoiles
 
     if avis or note:
         contenu = f"{note} étoiles : {avis}"
