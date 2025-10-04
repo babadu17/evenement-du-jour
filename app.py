@@ -5,6 +5,17 @@ import sqlite3
 import webbrowser
 import os
 
+# Créer la table si elle n'existe pas
+conn = sqlite3.connect("database.db")
+conn.execute("""
+CREATE TABLE IF NOT EXISTS avis (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    texte TEXT
+)
+""")
+conn.commit()
+conn.close()
+
 app = Flask(__name__)
 
 @app.route("/")
@@ -16,43 +27,31 @@ def home():
        events = json.load(f)
     # Récupérer les événements correspondant
     todays_events = events.get(today, ["Aucun événement pour aujourd'hui"])
-    return render_template("index.html", events=todays_events, message = message)
+    return render_template("index.html", events=todays_events)
 
 @app.route("/enregistrer_avis", methods=["POST"])
 def enregistrer_avis():
-    avis = request.form.get("avis")
+    avis = request.form.get("avis")       # texte de l'avis
+    note = request.form.get("note")       # nombre d'étoiles
 
-    if avis:
-        # Charger les avis existants
-        if os.path.exists("avis.json"):
-            with open("avis.json", "r", encoding="utf-8") as f:
-                data = json.load(f)
-        else:
-            data = []
+    if avis and note:
+        contenu = f"{note} étoiles : {avis}"
 
-        # Ajouter le nouvel avis
-        data.append({"avis": avis})
-
-        # Sauvegarder dans le fichier
-        with open("avis.json", "w", encoding="utf-8") as f:
-            json.dump(data, f, indent=2, ensure_ascii=False)
+        conn = sqlite3.connect("database.db")
+        conn.execute("INSERT INTO avis (texte) VALUES (?)", (contenu,))
+        conn.commit()
+        conn.close()
 
     return redirect("/")
 
-@app.route("/liste")
-def liste():
-    with sqlite3.connect("avis.db") as conn:
-        cur = conn.cursor()
-        cur.execute("SELECT * FROM donnees")
-        resultats = cur.fetchall()  # récupère toutes les lignes
-
-    # On prépare une petite page HTML pour afficher
-    html = "<h1>Liste des textes enregistrés</h1><ul>"
-    for ligne in resultats:
-        html += f"<li>{ligne[1]}</li>"  # ligne[0] = id, ligne[1] = texte
-    html += "</ul>"
-
-    return html
+@app.route("/avis")
+def afficher_avis():
+    conn = sqlite3.connect("database.db")
+    cur = conn.cursor()
+    cur.execute("SELECT texte FROM avis ORDER BY id DESC")
+    data = cur.fetchall()
+    conn.close()
+    return render_template("avis.html", avis_list=data)
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000, debug=True)
