@@ -4,7 +4,7 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Anniversaire historique du jour</title>
-        <link rel="stylesheet" href="static/style.css">
+        <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
         <link rel="icon" herf="static/icon.png">
         <meta name="description" content="Annivairesaires d'événements historiques du jour">
     </head>
@@ -48,18 +48,25 @@
         
         <h2>Votre avis</h2>
         <form action="/enregistrer_avis" method="post" class="avis">
-            <label for="avi">Laisser votre avis :</label><br>
             <div id="stars">
-               <span class="star" data-value="1">★</span>
-               <span class="star" data-value="2">★</span>
-               <span class="star" data-value="3">★</span>
-               <span class="star" data-value="4">★</span>
-               <span class="star" data-value="5">★</span>
+                <span class="star" data-value="1">★</span>
+                <span class="star" data-value="2">★</span>
+                <span class="star" data-value="3">★</span>
+                <span class="star" data-value="4">★</span>
+                <span class="star" data-value="5">★</span>
             </div>
+            
+            <!-- champ caché pour stocker la note -->
+            <input type="hidden" name="note" id="note-value">
+
+            <!-- ton champ texte -->
             <input type="text" name="avis" placeholder="Écris ton avis ici..."><br>
+
+            <!-- bouton -->
             <input id="avis" type="submit" value="Envoyer votre avis">
             <p>{{ message }}</p>
         </form>
-        <sript> src="sript.js"</sript>
+        <p id="resultat" class="cacher">Note : 0 étoile(s)</p>
+        <script src="{{ url_for('static', filename='script.js') }}"></script>
     </body>
 </html>
