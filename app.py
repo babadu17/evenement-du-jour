@@ -5,17 +5,6 @@ import sqlite3
 import webbrowser
 import os
 
-# Créer la table si elle n'existe pas
-conn = sqlite3.connect("database.db")
-conn.execute("""
-CREATE TABLE IF NOT EXISTS avis (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    texte TEXT
-)
-""")
-conn.commit()
-conn.close()
-
 app = Flask(__name__)
 
 @app.route("/")
@@ -46,7 +35,7 @@ def enregistrer_avis():
 
 @app.route("/avis")
 def afficher_avis():
-    conn = sqlite3.connect("database.db")
+    conn = sqlite3.connect("postgresql://avis_5iyd_user:mFFNunuA1B0ymaJ60VlhtiFLdjEYhatZ@dpg-d3gjlhe3jp1c73er6ptg-a/avis_5iyd")
     cur = conn.cursor()
     cur.execute("SELECT texte FROM avis ORDER BY id DESC")
     data = cur.fetchall()
