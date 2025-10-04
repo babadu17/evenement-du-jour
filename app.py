@@ -26,7 +26,7 @@ def enregistrer_avis():
     if avis and note:
         contenu = f"{note} étoiles : {avis}"
 
-        conn = sqlite3.connect("database.db")
+        conn = sqlite3.connect("postgresql://avis_5iyd_user:mFFNunuA1B0ymaJ60VlhtiFLdjEYhatZ@dpg-d3gjlhe3jp1c73er6ptg-a/avis_5iyd")
         conn.execute("INSERT INTO avis (texte) VALUES (?)", (contenu,))
         conn.commit()
         conn.close()
