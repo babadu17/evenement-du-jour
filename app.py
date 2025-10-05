@@ -43,7 +43,7 @@ def enregistrer_avis():
     note = request.form.get("note")
 
     if avis or note:
-        contenu = f"{note} étoiles : {avis}"
+        contenu = f"{avis} étoiles : {note}"
 
         conn = get_connection()
         cur = conn.cursor()
