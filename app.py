@@ -39,11 +39,11 @@ def home():
 
 @app.route("/enregistrer_avis", methods=["POST"])
 def enregistrer_avis():
-    avis = request.form.get("star")
+    avis = request.form.get("avis")
     note = request.form.get("note")
 
     if avis or note:
-        contenu = f"{avis} étoiles : {note}"
+        contenu = f"{note} étoiles : {avis}"
 
         conn = get_connection()
         cur = conn.cursor()
