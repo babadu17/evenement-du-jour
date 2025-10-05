@@ -19,6 +19,11 @@
     {% endif %}
 
     <br>
-    <a href="/">⬅️ Retour à l’accueil</a>
+    <form action="/reset_avis" method="get" onsubmit="return confirm('Es-tu sûr de vouloir tout supprimer ?');">
+        <button type="submit" style="background-color: red; color: white; padding: 8px 12px; border-radius: 6px; border: none;">
+           🗑️ Supprimer tous les avis
+        </button>
+    </form>
+
 </body>
 </html>
