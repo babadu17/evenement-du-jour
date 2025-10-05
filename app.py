@@ -11,7 +11,20 @@ DB_URL = "postgresql://avis_5iyd_user:mFFNunuA1B0ymaJ60VlhtiFLdjEYhatZ@dpg-d3gjl
 
 def get_connection():
     return psycopg2.connect(DB_URL)
-    
+
+# Créer la table "avis" si elle n'existe pas
+def init_db():
+    conn = get_connection()
+    cur = conn.cursor()
+    cur.execute("""
+        CREATE TABLE IF NOT EXISTS avis (
+            id SERIAL PRIMARY KEY,
+            texte TEXT NOT NULL
+        )
+    """)
+    conn.commit()
+    conn.close()
+
 @app.route("/")
 def home():
     # Date du jour (jour et mois)
@@ -53,4 +66,5 @@ def afficher_avis():
 
 
 if __name__ == "__main__":
+    init_db()
     app.run(host="0.0.0.0", port=5000, debug=True)
