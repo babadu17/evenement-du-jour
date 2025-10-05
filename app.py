@@ -28,7 +28,7 @@ def enregistrer_avis():
     if avis or note:
         contenu = f"{note} étoiles : {avis}"
 
-        conn = sqlite3.connect("postgresql://avis_5iyd_user:mFFNunuA1B0ymaJ60VlhtiFLdjEYhatZ@dpg-d3gjlhe3jp1c73er6ptg-a/avis_5iyd")
+        conn = psycopg2.connect("postgresql://avis_5iyd_user:mFFNunuA1B0ymaJ60VlhtiFLdjEYhatZ@dpg-d3gjlhe3jp1c73er6ptg-a/avis_5iyd")
         conn.execute("INSERT INTO avis (texte) VALUES (?)", (contenu,))
         conn.commit()
         conn.close()
@@ -37,7 +37,7 @@ def enregistrer_avis():
 
 @app.route("/avis")
 def afficher_avis():
-    conn = sqlite3.connect("postgresql://avis_5iyd_user:mFFNunuA1B0ymaJ60VlhtiFLdjEYhatZ@dpg-d3gjlhe3jp1c73er6ptg-a/avis_5iyd")
+    conn = psycopg2.connect("postgresql://avis_5iyd_user:mFFNunuA1B0ymaJ60VlhtiFLdjEYhatZ@dpg-d3gjlhe3jp1c73er6ptg-a/avis_5iyd")
     cur = conn.cursor()
     cur.execute("SELECT texte FROM avis ORDER BY id DESC")
     data = cur.fetchall()
