@@ -6,26 +6,12 @@ import webbrowser
 import os
 import psycopg2
 
-
 app = Flask(__name__)
 DB_URL = "postgresql://avis_5iyd_user:mFFNunuA1B0ymaJ60VlhtiFLdjEYhatZ@dpg-d3gjlhe3jp1c73er6ptg-a/avis_5iyd"  # Obligatoire pour flash
 app.secret_key = "une_cle_secrete"
 
 def get_connection():
     return psycopg2.connect(DB_URL)
-
-# Créer la table "avis" si elle n'existe pas
-def init_db():
-    conn = get_connection()
-    cur = conn.cursor()
-    cur.execute("""
-        CREATE TABLE IF NOT EXISTS avis (
-            id SERIAL PRIMARY KEY,
-            texte TEXT NOT NULL
-        )
-    """)
-    conn.commit()
-    conn.close()
 
 @app.route("/")
 def home():
@@ -80,5 +66,4 @@ def reset_avis():
     return redirect("/avis")
 
 if __name__ == "__main__":
-    init_db()
     app.run(host="0.0.0.0", port=5000, debug=True)
