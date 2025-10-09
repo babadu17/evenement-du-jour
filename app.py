@@ -22,7 +22,7 @@ def home():
        events = json.load(f)
     # Récupérer les événements correspondant
     todays_events = events.get(today, ["Aucun événement pour aujourd'hui"])
-    return render_template("index.html", events=todays_events, aujourdhui=datetime.strptime("d% B%"))
+    return render_template("index.html", events=todays_events, aujourdhui=datetime.now.strptime("d% B%"))
 
 @app.route("/enregistrer_avis", methods=["POST"])
 def enregistrer_avis():
