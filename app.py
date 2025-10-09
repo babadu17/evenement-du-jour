@@ -6,6 +6,7 @@ import webbrowser
 import os
 import psycopg2
 
+
 app = Flask(__name__)
 DB_URL = "postgresql://avis_5iyd_user:mFFNunuA1B0ymaJ60VlhtiFLdjEYhatZ@dpg-d3gjlhe3jp1c73er6ptg-a/avis_5iyd"  # Obligatoire pour flash
 app.secret_key = "une_cle_secrete"
