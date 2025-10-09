@@ -22,21 +22,6 @@ def home():
        events = json.load(f)
     # Récupérer les événements correspondant
     todays_events = events.get(today, ["Aucun événement pour aujourd'hui"])
-    mois_du_jour = datetime.now().strftime("%B")
-    mois = {
-        "January":"Janvier",
-        "February":"Février",
-        "March":"Mars",
-        "April":"Avril",
-        "June":"Juin",
-        "July":"Juillet",
-        "August":"Aout",
-        "September":"Septembre",
-        "October":"Octobre",
-        "November":"Novombre",
-        "December":"Décembre",
-    }
-    aujourdhui= datetime.now().strftime("%d") + mois(mois_du_jour)
     return render_template("index.html", events=todays_events, aujourdhui=today)
 
 @app.route("/enregistrer_avis", methods=["POST"])
