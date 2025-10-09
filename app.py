@@ -37,7 +37,7 @@ def home():
         "December":"Décembre",
     }
     aujourdhui= datetime.now().strftime("%d") + mois(mois_du_jour)
-    return render_template("index.html", events=todays_events, aujourdhui=aujourdhui)
+    return render_template("index.html", events=todays_events, aujourdhui=today)
 
 @app.route("/enregistrer_avis", methods=["POST"])
 def enregistrer_avis():
