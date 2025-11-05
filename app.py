@@ -70,38 +70,5 @@ def reset_avis():
         flash(f"⚠️ Erreur : {e}")
     return redirect("/avis")
 
-@app.route('/statistiques_visiteurs')
-def statistiques_visiteurs():
-    ip = get_ip()
-
-    # 💡 Étape 1 : afficher ton IP dans la console la première fois
-    print(f"[ADMIN PAGE] Accès tenté depuis IP : {ip}")
-
-    # 💡 Étape 2 : une fois ton IP connue, remplace "TON_ADRESSE_IP" ci-dessous
-    TON_ADRESSE_IP = "A_REMPLACER_APRES_TEST"
-
-    if ip != TON_ADRESSE_IP:
-        return "⛔ Accès refusé", 403
-
-    try:
-        conn = get_connection()
-        cur = conn.cursor()
-        cur.execute("""
-            SELECT nom, prenom, ip, nb_visites, date_derniere_visite
-            FROM visiteurs
-            ORDER BY date_derniere_visite DESC
-        """)
-        visiteurs = cur.fetchall()
-
-        cur.execute("SELECT AVG(nb_visites) FROM visiteurs")
-        moyenne = cur.fetchone()[0]
-        conn.close()
-
-        return render_template('admin_visiteurs.html', visiteurs=visiteurs, moyenne=moyenne)
-
-    except Exception as e:
-        print("⚠️ Erreur chargement admin :", e)
-        return "Erreur lors du chargement des visiteurs", 500
-
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000, debug=True)
