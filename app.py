@@ -22,7 +22,7 @@ def home():
     ip = get_ip()
     print(f"[INFO] IP détectée : {ip}")
     
-    if not user_registered:
+    #if not user_registered:
         #return redirect('/inscription')
     
     # Met à jour le nombre de visites et la date de dernière visite
