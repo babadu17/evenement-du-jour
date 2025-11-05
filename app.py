@@ -18,29 +18,6 @@ def get_ip():
 
 @app.route("/")
 def home():
-    user_registered = request.cookies.get('user_registered')
-    ip = get_ip()
-    print(f"[INFO] IP détectée : {ip}")
-    
-    #if not user_registered:
-        #return redirect('/inscription')
-    
-    # Met à jour le nombre de visites et la date de dernière visite
-    try:
-        conn = get_connection()
-        cur = conn.cursor()
-
-        cur.execute("""
-            UPDATE visiteurs
-            SET nb_visites = nb_visites + 1, date_derniere_visite = CURRENT_TIMESTAMP
-            WHERE ip = %s
-        """, (ip,))
-        conn.commit()
-        cur.close()
-        conn.close()
-    except Exception as e:
-        print("⚠️ Erreur maj nb_visites :", e)
-
     # Date du jour (jour et mois)
     today = datetime.now().strftime("%d-%m")
 
