@@ -126,27 +126,5 @@ def statistiques_visiteurs():
         print("⚠️ Erreur chargement admin :", e)
         return "Erreur lors du chargement des visiteurs", 500
 
-@app.before_first_request
-def creer_table_visiteurs():
-    try:
-        conn = get_connection()
-        cur = conn.cursor()
-        cur.execute("""
-            CREATE TABLE IF NOT EXISTS visiteurs (
-                id SERIAL PRIMARY KEY,
-                nom TEXT,
-                prenom TEXT,
-                ip TEXT,
-                nb_visites INTEGER DEFAULT 1,
-                date_derniere_visite TIMESTAMP DEFAULT CURRENT_TIMESTAMP
-            );
-        """)
-        conn.commit()
-        cur.close()
-        conn.close()
-        print("✅ Table visiteurs vérifiée/créée.")
-    except Exception as e:
-        print("⚠️ Erreur création table :", e)
-
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000, debug=True)
