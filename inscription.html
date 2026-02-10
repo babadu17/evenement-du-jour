@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Inscription - Événements Historiques</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+  <header>
+    <p>Bienvenue sur le site des événements historiques</p>
+  </header>
+
+  <main>
+    {% with messages = get_flashed_messages(with_categories=true) %}
+      {% if messages %}
+        <div class="flash-messages">
+          {% for category, message in messages %}
+            <div class="flash {{ category }}">{{ message }}</div>
+          {% endfor %}
+        </div>
+      {% endif %}
+    {% endwith %}
+
+    <div class="inscription-container">
+      <h2>Première visite ?</h2>
+      <p style="text-align: center; color: #666; margin-bottom: 30px;">
+        Entrez vos informations pour commencer
+      </p>
+      
+      <form method="POST" action="/inscription" onsubmit="console.log('Formulaire envoyé!'); return true;">
+        <input type="text" name="nom" id="nom" placeholder="Votre nom ..." required minlength="2">
+        <input type="text" name="prenom" id="prenom" placeholder="Votre prénom ..." required minlength="2">
+        <input type="submit" value="Découvrir l'Histoire">
+      </form>
+    </div>
+    
+    <script>
+      document.querySelector('form').addEventListener('submit', function(e) {
+        const nom = document.getElementById('nom').value;
+        const prenom = document.getElementById('prenom').value;
+        console.log('Nom:', nom);
+        console.log('Prénom:', prenom);
+        
+        if (!nom || !prenom || nom.length < 2 || prenom.length < 2) {
+          alert('⚠️ Veuillez remplir tous les champs (minimum 2 caractères)');
+          e.preventDefault();
+          return false;
+        }
+      });
+    </script>
+  </main>
+</body>
+</html>
