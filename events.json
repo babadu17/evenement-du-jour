@@ -134,10 +134,114 @@
       "link": "https://fr.wikipedia.org/wiki/Massacre_de_Haymarket_Square"
     }
   ],
-  "01-06": [],
-  "01-07": [],
-  "01-08": [],
-  "01-09": [],
+  "01-06": [
+    {
+      "year": "987",
+      "text": "Hugues Capet est élu et sacré roi des Francs. La date exacte reste cependant incertaine.",
+      "link": "https://fr.wikipedia.org/wiki/Hugues_Capet"
+    },
+    {
+      "year": "1204",
+      "text": "Capitulation de la ville de Rouen, qui tombe aux mains du roi de France Philippe-Auguste. La Normandie entre dans le giron de la monarchie française.",
+      "link": "https://fr.wikipedia.org/wiki/Siège_de_Rouen_(1204)"
+    },
+    {
+      "year": "1794",
+      "text": "Bataille navale au large d'Ouessant - Glorious First of June.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_du_13_prairial_an_II"
+    },
+    {
+      "year": "1796",
+      "text": "Naissance de  Sadi Carnot, physicien français († 24 août 1832).",
+      "link": "https://fr.wikipedia.org/wiki/Sadi_Carnot_(physicien)"
+    },
+    {
+      "year": "1915",
+      "text": "La France abandonne l'uniforme garance et adopte pour son armée un uniforme plus sobre de couleur bleu horizon, elle remplace aussi le képi par le casque.",
+      "link": "https://fr.wikipedia.org/wiki/Bleu_horizon"
+    }
+  ],
+  "01-07": [
+    {
+      "year": "987",
+      "text": "Hugues Capet est élu roi des Francs par les princes du royaume, ses sacre et couronnement vont suivre deux jours après seulement.",
+      "link": "https://fr.wikipedia.org/wiki/Hugues_Capet"
+    },
+    {
+      "year": "1646",
+      "text": "Naissance de Gottfried Wilhelm Leibniz, mathématicien et philosophe allemand († 14 novembre 1716).",
+      "link": "https://fr.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz"
+    },
+    {
+      "year": "1810",
+      "text": "Incendie de l'ambassade d'Autriche à Paris",
+      "link": "https://fr.wikipedia.org/wiki/Incendie_de_l%27ambassade_d%27Autriche_à_Paris"
+    },
+    {
+      "year": "1815",
+      "text": "Bataille de Rocquencourt, défaite des Prussiens face aux Français.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Rocquencourt"
+    },
+    {
+      "year": "1903",
+      "text": "Départ du 1er Tour de France.",
+      "link": "https://fr.wikipedia.org/wiki/Tour_de_France_1903"
+    }
+  ],
+  "01-08": [
+    {
+      "year": "939",
+      "text": "Bataille de Trans (victoire des Bretons sur les Vikings).",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Trans"
+    },
+    {
+      "year": "1291",
+      "text": "Date symbolique de signature du Pacte fédéral, pacte fondateur de la Suisse.",
+      "link": "https://fr.wikipedia.org/wiki/Pacte_fédéral"
+    },
+    {
+      "year": "1459",
+      "text": "Louis XI fonde l'ordre de Saint-Michel, à Amboise.",
+      "link": "https://fr.wikipedia.org/wiki/Ordre_de_Saint-Michel"
+    },
+    {
+      "year": "1589",
+      "text": "Assassinat au poignard de Henri III de France, qui mourra le lendemain, par le moine dominicain Jacques Clément.",
+      "link": "https://fr.wikipedia.org/wiki/Henri_III_(roi_de_France)"
+    },
+    {
+      "year": "1744",
+      "text": "Naissance de  Jean-Baptiste de Lamarck, naturaliste français († 18 décembre 1829).",
+      "link": "https://fr.wikipedia.org/wiki/Jean-Baptiste_de_Lamarck"
+    }
+  ],
+  "01-09": [
+    {
+      "year": "- 338",
+      "text": "Athènes perd la liberté à Chéronée.",
+      "link": "https://www.herodote.net/almanach-jour-0901.php"
+    },
+    {
+      "year": "1524",
+      "text": "Naissance de  Pierre de Ronsard (mort un 27 décembre).",
+      "link": "https://fr.wikipedia.org/wiki/Pierre_de_Ronsard"
+    },
+    {
+      "year": "1715",
+      "text": "Mort de Louis XIV, Philippe d'Orléans devient régent.",
+      "link": "https://fr.wikipedia.org/wiki/Louis_XIV"
+    },
+    {
+      "year": "1870",
+      "text": "Bataille de Sedan (guerre franco-allemande de 1870), victoire prussienne sur les troupes impériales françaises.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Sedan"
+    },
+    {
+      "year": "1939",
+      "text": "Invasion de la Pologne par les troupes allemandes, début de la seconde guerre mondiale.",
+      "link": "https://fr.wikipedia.org/wiki/Campagne_de_Pologne_(1939)"
+    }
+  ],
   "01-10": [
     {
       "year": "-331",
@@ -374,10 +478,114 @@
       "link": "https://fr.wikipedia.org/wiki/Bataille_de_Berlin"
     }
   ],
-  "02-06": [],
-  "02-07": [],
-  "02-08": [],
-  "02-09": [],
+  "02-06": [
+    {
+      "year": "455",
+      "text": "Les Vandales entrent dans Rome et en entament le pillage.",
+      "link": "https://fr.wikipedia.org/wiki/Vandales"
+    },
+    {
+      "year": "1216",
+      "text": "Le prince Louis, fils et héritier du roi Philippe II Auguste, et père du futur Saint-Louis, s'empare de Londres et se fait proclamer roi d'Angleterre.",
+      "link": "https://fr.wikipedia.org/wiki/Louis_VIII_le_Lion"
+    },
+    {
+      "year": "1793",
+      "text": "François Hanriot, chef de la Garde nationale parisienne, fait arrêter vingt-deux Girondins désignés par Jean-Paul Marat ; c'est l'éviction des Girondins, la Convention devient montagnarde.",
+      "link": "https://fr.wikipedia.org/wiki/Journées_du_31_mai_et_du_2_juin_1793#L'insurrection_du_2_juin"
+    },
+    {
+      "year": "1904",
+      "text": "Naissance de Johnny Weissmuller, nageur et acteur américain († 20 janvier 1984).",
+      "link": "https://fr.wikipedia.org/wiki/Johnny_Weissmuller"
+    },
+    {
+      "year": "1953",
+      "text": "Couronnement d'Élisabeth II, devenue reine le 6 février 1952 à la mort de son père, le roi George VI du Royaume-Uni. Première retransmission internationale d'un événement en direct par la télévision.",
+      "link": "https://fr.wikipedia.org/wiki/Couronnement_d%27Élisabeth_II"
+    }
+  ],
+  "02-07": [
+    {
+      "year": "1778",
+      "text": "Mort de Jean-Jacques Rousseau à Ermenonville à l'âge de 66 ans.",
+      "link": "https://fr.wikipedia.org/wiki/Jean-Jacques_Rousseau"
+    },
+    {
+      "year": "1816",
+      "text": "Naufrage du navire La Méduse au large de côtes nord-africaines.",
+      "link": "https://fr.wikipedia.org/wiki/Méduse_(navire)"
+    },
+    {
+      "year": "1904",
+      "text": "Naissance de René Lacoste, joueur de tennis français († 12 octobre 1996).",
+      "link": "https://fr.wikipedia.org/wiki/René_Lacoste"
+    },
+    {
+      "year": "1934",
+      "text": "Naissance de l'Armée de l'air française.",
+      "link": "https://fr.wikipedia.org/wiki/Armée_de_l%27air_et_de_l%27espace_(France)"
+    },
+    {
+      "year": "1964",
+      "text": "Vote du Civil Rights Act par le Congrès des États-Unis.",
+      "link": "https://fr.wikipedia.org/wiki/Civil_Rights_Act_de_1964"
+    }
+  ],
+  "02-08": [
+    {
+      "year": "- 216",
+      "text": "Bataille de Cannes, désastreuse défaite des Romains devant Hannibal, pendant la deuxième guerre punique.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Cannes"
+    },
+    {
+      "year": "1802",
+      "text": "A la suite d’un plébiscite, Napoléon Bonaparte devient consul à vie (3 millions de oui, 1 600 non).",
+      "link": "https://fr.wikipedia.org/wiki/Consulat_(histoire_de_France)"
+    },
+    {
+      "year": "1830",
+      "text": "Abdication du roi Charles X, en France.",
+      "link": "https://fr.wikipedia.org/wiki/Charles_X"
+    },
+    {
+      "year": "1834",
+      "text": "Naissance de Frédéric Auguste Bartholdi, sculpteur français († 4 octobre 1904).",
+      "link": "https://fr.wikipedia.org/wiki/Auguste_Bartholdi"
+    },
+    {
+      "year": "1914",
+      "text": "Mobilisation française.",
+      "link": "https://fr.wikipedia.org/wiki/Mobilisation_française_de_1914"
+    }
+  ],
+  "02-09": [
+    {
+      "year": "- 31",
+      "text": "La bataille d'Actium.",
+      "link": "https://www.herodote.net/almanach-jour-0902.php"
+    },
+    {
+      "year": "909",
+      "text": "Fondation de l'abbaye de Cluny, en Bourgogne.",
+      "link": "https://fr.wikipedia.org/wiki/Abbaye_de_Cluny"
+    },
+    {
+      "year": "1192",
+      "text": "Le traité de paix entre Richard Cœur de Lion et Saladin met fin à la troisième croisade.",
+      "link": "https://fr.wikipedia.org/wiki/Troisième_croisade"
+    },
+    {
+      "year": "1666",
+      "text": "Grand incendie de Londres.",
+      "link": "https://fr.wikipedia.org/wiki/Grand_incendie_de_Londres"
+    },
+    {
+      "year": "1945",
+      "text": "Signature de la reddition du Japon, fin de la Seconde Guerre mondiale.",
+      "link": "https://fr.wikipedia.org/wiki/Capitulation_du_Japon"
+    }
+  ],
   "02-10": [
     {
       "year": "1187",
@@ -614,10 +822,114 @@
       "link": "https://fr.wikipedia.org/wiki/USS_Nimitz_(CVN-68)"
     }
   ],
-  "03-06": [],
-  "03-07": [],
-  "03-08": [],
-  "03-09": [],
+  "03-06": [
+    {
+      "year": "1810",
+      "text": "Promulgation du Code pénal français par Napoléon Ier.",
+      "link": "https://fr.wikipedia.org/wiki/Code_pénal_de_1810"
+    },
+    {
+      "year": "1818",
+      "text": "Naissance de Louis Faidherbe, militaire français († 28 septembre 1889).",
+      "link": "https://fr.wikipedia.org/wiki/Louis_Faidherbe"
+    },
+    {
+      "year": "1839",
+      "text": "Déclenchement de la première guerre de l'opium.",
+      "link": "https://fr.wikipedia.org/wiki/Première_guerre_de_l%27opium#Action_de_Lin_Zexu"
+    },
+    {
+      "year": "1845",
+      "text": "Première vérification expérimentale de l'effet Doppler-Fizeau par Christoph Buys Ballot.",
+      "link": "https://fr.wikipedia.org/wiki/Effet_Doppler"
+    },
+    {
+      "year": "1944",
+      "text": "Election de Charles de Gaulle comme président du Gouvernement provisoire de la République française.",
+      "link": "https://fr.wikipedia.org/wiki/Gouvernement_provisoire_de_la_République_française"
+    }
+  ],
+  "03-07": [
+    {
+      "year": "987",
+      "text": "Couronnement d'Hugues Capet.",
+      "link": "https://www.herodote.net/almanach-ID-1281.php#:~:text=Le%203%20juillet%20987%2C%20le,fixe%20sa%20résidence%20à%20Paris."
+    },
+    {
+      "year": "1035",
+      "text": "Guillaume le Conquérant devient duc de Normandie.",
+      "link": "https://fr.wikipedia.org/wiki/Guillaume_le_Conquérant"
+    },
+    {
+      "year": "1423",
+      "text": "Naissance de Louis XI dit « Le Prudent », roi de France de 1461 à sa mort († 30 août 1483).",
+      "link": "https://fr.wikipedia.org/wiki/Louis_XI"
+    },
+    {
+      "year": "1608",
+      "text": "Fondation de Québec.",
+      "link": "https://fr.wikipedia.org/wiki/Histoire_de_la_ville_de_Québec"
+    },
+    {
+      "year": "1905",
+      "text": "Vote de la loi de séparation des Églises et de l'État, en France.",
+      "link": "https://fr.wikipedia.org/wiki/Loi_du_9_décembre_1905_concernant_la_séparation_des_Églises_et_de_l%27État"
+    }
+  ],
+  "03-08": [
+    {
+      "year": "1509",
+      "text": "Naissance de Étienne Dolet, érudit classique, poète, philosophe, imprimeur français brûlé avec ses livres en place de Grève († 3 août 1546).",
+      "link": "https://fr.wikipedia.org/wiki/Étienne_Dolet"
+    },
+    {
+      "year": "1529",
+      "text": "Signature, à Cambrai, de la paix des Dames mettant fin à la guerre entre la France et les Habsbourg.",
+      "link": "https://fr.wikipedia.org/wiki/Paix_des_Dames"
+    },
+    {
+      "year": "1619",
+      "text": "Charles d'Albert achète la baronnie de Maillé, que le roi Louis XIII érige en duché-pairie qui prend le nom de Luynes.",
+      "link": "https://fr.wikipedia.org/wiki/Luynes_(Indre-et-Loire)"
+    },
+    {
+      "year": "1675",
+      "text": "Victoire de la flotte française sur les Espagnols et les Hollandais, prise de la Sicile.",
+      "link": "https://fr.wikipedia.org/wiki/Sicile"
+    },
+    {
+      "year": "1914",
+      "text": "L'Empire allemand déclare la guerre à la France.",
+      "link": "https://fr.wikipedia.org/wiki/Première_Guerre_mondiale"
+    }
+  ],
+  "03-09": [
+    {
+      "year": "1781",
+      "text": "Naissance d'Eugène de Beauharnais, vice-roi d'Italie († 21 février 1824).",
+      "link": "https://fr.wikipedia.org/wiki/Eugène_de_Beauharnais"
+    },
+    {
+      "year": "1783",
+      "text": "Traité de paix de Paris. Il met un terme à la guerre et confirme l'indépendance des Etats-Unis.",
+      "link": "https://www.axl.cefan.ulaval.ca/amnord/USA-traite-Paris1783.htm"
+    },
+    {
+      "year": "1791",
+      "text": "L'Assemblée constituante vote la Constitution qui institue en France une monarchie constitutionnelle.",
+      "link": "https://fr.wikipedia.org/wiki/Monarchie_constitutionnelle_française_(1791-1792)"
+    },
+    {
+      "year": "1928",
+      "text": "Alexander Fleming découvre la pénicilline.",
+      "link": "https://www.herodote.net/almanach-jour-0903.php"
+    },
+    {
+      "year": "1943",
+      "text": "Début de l'opération Avalanche (Seconde Guerre mondiale).",
+      "link": "https://fr.wikipedia.org/wiki/Opération_Avalanche"
+    }
+  ],
   "03-10": [
     {
       "year": "1569",
@@ -849,10 +1161,114 @@
       "link": "https://fr.wikipedia.org/wiki/Bataille_de_la_mer_de_Corail"
     }
   ],
-  "04-06": [],
-  "04-07": [],
-  "04-08": [],
-  "04-09": [],
+  "04-06": [
+    {
+      "year": "1771",
+      "text": "Naissance de Charles Antoine Morand, militaire français († 2 septembre 1835).",
+      "link": "https://fr.wikipedia.org/wiki/Charles_Antoine_Morand"
+    },
+    {
+      "year": "1813",
+      "text": "Signature de l'armistice de Pleiswitz, entre Napoléon Bonaparte et la sixième coalition.",
+      "link": "https://fr.wikipedia.org/wiki/Armistice_de_Pleiswitz"
+    },
+    {
+      "year": "1859",
+      "text": "Napoléon III bat les Autrichiens, à la bataille de Magenta.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Magenta"
+    },
+    {
+      "year": "1887",
+      "text": "Création de l'Institut Pasteur.",
+      "link": "https://fr.wikipedia.org/wiki/Institut_Pasteur"
+    },
+    {
+      "year": "1920",
+      "text": "Signature du traité de Trianon.",
+      "link": "https://fr.wikipedia.org/wiki/Traité_de_Trianon"
+    }
+  ],
+  "04-07": [
+    {
+      "year": "993",
+      "text": "Jean XV devient le premier pape à canoniser un saint, Ulrich d'Augsbourg.",
+      "link": "https://fr.wikipedia.org/wiki/Jean_XV"
+    },
+    {
+      "year": "1054",
+      "text": "Explosion remarquée d'une supernova.",
+      "link": "https://fr.wikipedia.org/wiki/SN_1054"
+    },
+    {
+      "year": "1617",
+      "text": "Arrivée en Nouvelle-France de Louis Hébert et Marie Rollet, premiers colons français à s'établir au Canada.",
+      "link": "https://fr.wikipedia.org/wiki/Louis_Hébert"
+    },
+    {
+      "year": "1776",
+      "text": "Déclaration d’indépendance des États-Unis d'Amérique.",
+      "link": "https://fr.wikipedia.org/wiki/Déclaration_d%27indépendance_des_États-Unis"
+    },
+    {
+      "year": "1807",
+      "text": "Naissance de Giuseppe Garibaldi, militaire, patriote et homme politique italien († 2 juin 1882).",
+      "link": "https://fr.wikipedia.org/wiki/Giuseppe_Garibaldi"
+    }
+  ],
+  "04-08": [
+    {
+      "year": "1443",
+      "text": "Fondation des Hospices de Beaune, hôpital pour les pauvres, créé à l'initiative de Nicolas Rolin, chancelier du duc de Bourgogne Philippe III le Bon, et de son épouse Guigone de Salins.",
+      "link": "https://fr.wikipedia.org/wiki/Hospices_de_Beaune"
+    },
+    {
+      "year": "1701",
+      "text": "Signature de la Grande paix de Montréal.",
+      "link": "https://fr.wikipedia.org/wiki/Grande_paix_de_Montréal"
+    },
+    {
+      "year": "1755",
+      "text": "Naissance de Nicolas-Jacques Conté, peintre, physicien et chimiste français († 6 décembre 1805).",
+      "link": "https://fr.wikipedia.org/wiki/Nicolas-Jacques_Conté"
+    },
+    {
+      "year": "1789",
+      "text": "Abolition du régime féodal.",
+      "link": "https://fr.wikipedia.org/wiki/Nuit_du_4_août_1789"
+    },
+    {
+      "year": "1914",
+      "text": "Invasion de la Belgique par l'Allemagne, ayant pour conséquences un ultimatum de la Grande-Bretagne, puis la déclaration de guerre de cette dernière à l'Allemagne.",
+      "link": "https://fr.wikipedia.org/wiki/Première_Guerre_mondiale"
+    }
+  ],
+  "04-09": [
+    {
+      "year": "476",
+      "text": "Odoacre dépose l'empereur romain d'Occident, un certain Romulus Augustule. C'est la fin de l'empire romain d'Occident",
+      "link": "https://www.herodote.net/almanach-jour-0904.php"
+    },
+    {
+      "year": "1768",
+      "text": "Naissance de François-René de Chateaubriand, écrivain, homme politique et diplomate français († 4 juillet 1848).",
+      "link": "https://fr.wikipedia.org/wiki/François-René_de_Chateaubriand"
+    },
+    {
+      "year": "1774",
+      "text": "James Cook découvre la Nouvelle-Calédonie.",
+      "link": "https://fr.wikipedia.org/wiki/Nouvelle-Calédonie"
+    },
+    {
+      "year": "1870",
+      "text": "Proclamation de la IIIe République",
+      "link": "https://fr.wikipedia.org/wiki/Proclamation_de_la_République_française_du_4_septembre_1870"
+    },
+    {
+      "year": "1998",
+      "text": "Création de Google, par Larry Page et Sergey Brin, dans la Silicon Valley en Californie.",
+      "link": "https://fr.wikipedia.org/wiki/Google"
+    }
+  ],
   "04-10": [
     {
       "year": "1289",
@@ -1079,10 +1495,114 @@
       "link": "https://fr.wikipedia.org/wiki/Camp_de_concentration_de_Mauthausen"
     }
   ],
-  "05-06": [],
-  "05-07": [],
-  "05-08": [],
-  "05-09": [],
+  "05-06": [
+    {
+      "year": "774",
+      "text": "Après avoir vaincu les lombards, Charlemagne se proclame roi des Francs et des Lombards par la grâce de Dieu.",
+      "link": "https://fr.wikipedia.org/wiki/Charlemagne"
+    },
+    {
+      "year": "1662",
+      "text": "Louis XIV prend le Soleil comme emblème.",
+      "link": "https://fr.wikipedia.org/wiki/Louis_XIV"
+    },
+    {
+      "year": "1798",
+      "text": "Les Irlandais Unis sont vaincus par les Britanniques à la bataille de New Ross.",
+      "link": "https://fr.wikipedia.org/wiki/Société_des_Irlandais_unis"
+    },
+    {
+      "year": "1878",
+      "text": "Naissance de Pancho Villa, révolutionnaire mexicain († 20 juillet 1923).",
+      "link": "https://fr.wikipedia.org/wiki/Pancho_Villa"
+    },
+    {
+      "year": "1947",
+      "text": "Les secrétaire d'État américain George Marshall annonce la création d'un plan d'aide à la reconstruction économique de l'Europe : le plan Marshall.",
+      "link": "https://fr.wikipedia.org/wiki/Plan_Marshall"
+    }
+  ],
+  "05-07": [
+    {
+      "year": "1194",
+      "text": "Bataille de Fréteval entre Richard Cœur de Lion et Philippe-Auguste vaincu mais qui parvient à s'enfuir en abandonnant son trésor et ses archives à l'ennemi .",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Fréteval"
+    },
+    {
+      "year": "1809",
+      "text": "Début de la bataille de Wagram entre Napoléon Ier et archiduc Charles.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Wagram"
+    },
+    {
+      "year": "1830",
+      "text": "Prise d'Alger.",
+      "link": "https://fr.wikipedia.org/wiki/Expédition_d%27Alger_(1830)"
+    },
+    {
+      "year": "1889",
+      "text": "Naissance de Jean Cocteau, écrivain, cinéaste, dessinateur et académicien français († 11 octobre 1963).",
+      "link": "https://fr.wikipedia.org/wiki/Jean_Cocteau"
+    },
+    {
+      "year": "1943",
+      "text": "Début de la bataille de Koursk.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Koursk"
+    }
+  ],
+  "05-08": [
+    {
+      "year": "910",
+      "text": "Les anglais de Mercie et Wessex battent les vikings de Northumbrie à la bataille de Tettenhall.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Tettenhall"
+    },
+    {
+      "year": "1305",
+      "text": "William Wallace est capturé à Glasgow, et condamné à mort pour haute trahison envers son souverain, crimes et sacrilège.",
+      "link": "https://fr.wikipedia.org/wiki/William_Wallace"
+    },
+    {
+      "year": "1796",
+      "text": "Victoire française à Castiglione en Italie.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Castiglione_(1796)"
+    },
+    {
+      "year": "1905",
+      "text": "Premier congrès mondial d'espéranto, réunissant, à Boulogne-sur-Mer, 688 locuteurs de 20 pays.",
+      "link": "https://fr.wikipedia.org/wiki/Congrès_mondial_d%27espéranto"
+    },
+    {
+      "year": "1930",
+      "text": "Naissance de Neil Armstrong, astronaute américain, premier Homme à avoir marché sur la Lune († 25 août 2012).",
+      "link": "https://fr.wikipedia.org/wiki/Neil_Armstrong"
+    }
+  ],
+  "05-09": [
+    {
+      "year": "1379",
+      "text": "Début de la révolte des chaperons blancs, dans le comté de Flandres.",
+      "link": "https://fr.wikipedia.org/wiki/Révolte_des_chaperons_blancs"
+    },
+    {
+      "year": "1534",
+      "text": "Jacques Cartier ramène deux « Indiens », de sa première expédition au Canada.",
+      "link": "https://fr.wikipedia.org/wiki/Jacques_Cartier"
+    },
+    {
+      "year": "1638",
+      "text": "Louis Dieudonné, futur Louis XIV, naît au château de Saint-Germain-en-Laye.",
+      "link": "https://www.herodote.net/almanach-jour-0905.php"
+    },
+    {
+      "year": "1725",
+      "text": "Mariage de Louis XV de France et de Marie Leszczyńska.",
+      "link": "https://fr.wikipedia.org/wiki/Marie_Leszczynska"
+    },
+    {
+      "year": "1977",
+      "text": "Lancement de la sonde spatiale Voyager 1.",
+      "link": "https://fr.wikipedia.org/wiki/Voyager_1"
+    }
+  ],
   "05-10": [
     {
       "year": "816",
@@ -1324,10 +1844,114 @@
       "link": "https://fr.wikipedia.org/wiki/Tunnel_sous_la_Manche"
     }
   ],
-  "06-06": [],
-  "06-07": [],
-  "06-08": [],
-  "06-09": [],
+  "06-06": [
+    {
+      "year": "1329",
+      "text": "Hommage vassalique d'Édouard III d'Angleterre à Philippe VI de France pour le fief de Guyenne.",
+      "link": "https://fr.wikipedia.org/wiki/Hommage_féodal"
+    },
+    {
+      "year": "1523",
+      "text": "Election du roi de Suède Gustav Vasa et fin de l'union de Kalmar (fête nationale suédoise).",
+      "link": "https://fr.wikipedia.org/wiki/Fête_nationale_suédoise"
+    },
+    {
+      "year": "1606",
+      "text": "Naissance de Pierre Corneille, dramaturge français († 1er octobre 1684).",
+      "link": "https://fr.wikipedia.org/wiki/Pierre_Corneille"
+    },
+    {
+      "year": "1808",
+      "text": "Joseph Bonaparte devient roi d'Espagne.",
+      "link": "https://fr.wikipedia.org/wiki/Joseph_Bonaparte"
+    },
+    {
+      "year": "1944",
+      "text": "Débarquement alliés en Normandie.",
+      "link": "https://fr.wikipedia.org/wiki/Débarquement_de_Normandie"
+    }
+  ],
+  "06-07": [
+    {
+      "year": "1189",
+      "text": "Richard Cœur de Lion devient roi d'Angleterre.",
+      "link": "https://fr.wikipedia.org/wiki/Richard_Cœur_de_Lion"
+    },
+    {
+      "year": "1801",
+      "text": "Première bataille d'Algésiras.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_d%27Algésiras_(1801)"
+    },
+    {
+      "year": "1827",
+      "text": "Signature du traité de Londres, pour la pacification de la Grèce.",
+      "link": "https://fr.wikipedia.org/wiki/Traité_de_Londres_(1827)"
+    },
+    {
+      "year": "1907",
+      "text": "Naissance de Frida Kahlo, une artiste peintre mexicaine († 13 juillet 1954)",
+      "link": "https://fr.wikipedia.org/wiki/Frida_Kahlo"
+    },
+    {
+      "year": "1935",
+      "text": "Naissance du Dalaï-lama, le guide spirituel du Tibet",
+      "link": "https://fr.wikipedia.org/wiki/Dalaï-lama"
+    }
+  ],
+  "06-08": [
+    {
+      "year": "1223",
+      "text": "Sacre de Louis VIII et Blanche de Castille à Reims.",
+      "link": "https://fr.wikipedia.org/wiki/Blanche_de_Castille"
+    },
+    {
+      "year": "1588",
+      "text": "L'Invincible Armada jette l'ancre devant Calais. La flotte anglaise profite de la nuit pour envoyer vers la flotte espagnole huit brûlots chargés de poudre et de ferraille, qui sèment une panique et un désordre indescriptible.",
+      "link": "https://fr.wikipedia.org/wiki/Invincible_Armada"
+    },
+    {
+      "year": "1768",
+      "text": "Naissance de Jean-Baptiste Bessières, maréchal d'Empire français († 1er mai 1813).",
+      "link": "https://fr.wikipedia.org/wiki/Jean-Baptiste_Bessières"
+    },
+    {
+      "year": "1806",
+      "text": "Fin du Saint-Empire romain germanique.",
+      "link": "https://fr.wikipedia.org/wiki/Saint-Empire_romain_germanique"
+    },
+    {
+      "year": "1918",
+      "text": "Foch est fait maréchal de France.",
+      "link": "https://fr.wikipedia.org/wiki/Ferdinand_Foch"
+    }
+  ],
+  "06-09": [
+    {
+      "year": "394",
+      "text": "Victoire de Théodose Ier à la bataille de la rivière froide.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_la_rivière_froide"
+    },
+    {
+      "year": "1522",
+      "text": "Arrivée à Séville du Victoria, bateau dirigé par Juan Sebastián El Cano, qui marque l'achèvement de la première circumnavigation du globe de 1519 à 1522.",
+      "link": "https://fr.wikipedia.org/wiki/Juan_Sebastián_Elcano"
+    },
+    {
+      "year": "1539",
+      "text": "Enregistrement de l'Ordonnance de Villers-Cotterêts",
+      "link": "https://fr.wikipedia.org/wiki/Ordonnance_de_Villers-Cotterêts"
+    },
+    {
+      "year": "1757",
+      "text": "Naissance du marquis de Lafayette.",
+      "link": "https://fr.wikipedia.org/wiki/Gilbert_du_Motier_de_La_Fayette"
+    },
+    {
+      "year": "1914",
+      "text": "Début de la première bataille de la Marne (Première Guerre mondiale),",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_la_Marne_(1914)"
+    }
+  ],
   "06-10": [
     {
       "year": "-105",
@@ -1417,7 +2041,7 @@
   "07-01": [
     {
       "year": "1558",
-      "text": "Reprise de Calais par François de Guise.",
+      "text": "Rreprise de Calais par François de Guise.",
       "link": "https://fr.wikipedia.org/wiki/Siège_de_Calais_(1558)"
     },
     {
@@ -1549,10 +2173,114 @@
       "link": "https://fr.wikipedia.org/wiki/Bataille_de_Diên_Biên_Phu"
     }
   ],
-  "07-06": [],
-  "07-07": [],
-  "07-08": [],
-  "07-09": [],
+  "07-06": [
+    {
+      "year": "1099",
+      "text": "Début du siège de Jérusalem lors de la première croisade.",
+      "link": "https://fr.wikipedia.org/wiki/Siège_de_Jérusalem_(1099)"
+    },
+    {
+      "year": "1520",
+      "text": "Début de l'entrevue du camp du Drap d'Or entre les rois de France François Ier et d'Angleterre Henri VIII.",
+      "link": "https://fr.wikipedia.org/wiki/Camp_du_Drap_d%27Or"
+    },
+    {
+      "year": "1654",
+      "text": "Sacre de Louis XIV, qui est roi, de fait, depuis le 14 mai 1643.",
+      "link": "https://fr.wikipedia.org/wiki/Louis_XIV"
+    },
+    {
+      "year": "1788",
+      "text": "Journée des tuiles. Les habitants de Grenoble s'attaquent à l'armée.",
+      "link": "https://fr.wikipedia.org/wiki/Journée_des_Tuiles"
+    },
+    {
+      "year": "1830",
+      "text": "Naissance de Edward Middleton Barry, architecte anglais († 27 janvier 1880).",
+      "link": "https://fr.wikipedia.org/wiki/Edward_Middleton_Barry"
+    }
+  ],
+  "07-07": [
+    {
+      "year": "1456",
+      "text": "Réhabilitation de Jeanne d'Arc.",
+      "link": "https://fr.wikipedia.org/wiki/Jeanne_d%27Arc#Procès_en_nullité_de_la_condamnation"
+    },
+    {
+      "year": "1792",
+      "text": "Baiser Lamourette.",
+      "link": "https://fr.wikipedia.org/wiki/Baiser_Lamourette"
+    },
+    {
+      "year": "1807",
+      "text": "Traité de Tilsit.",
+      "link": "https://fr.wikipedia.org/wiki/Traités_de_Tilsit"
+    },
+    {
+      "year": "1940",
+      "text": "Naissance de Ringo Starr, un des 4 Beatles",
+      "link": "https://fr.wikipedia.org/wiki/Ringo_Starr"
+    },
+    {
+      "year": "1944",
+      "text": "Déclaration des résistances européennes.",
+      "link": "https://fr.wikipedia.org/wiki/Déclaration_des_résistances_européennes"
+    }
+  ],
+  "07-08": [
+    {
+      "year": "1316",
+      "text": "Le cardinal catholique occitan Jacques Duèze est élu pape par ses pairs à Lyon. Il réside en Avignon sous les nom de Jean XXII.",
+      "link": "https://fr.wikipedia.org/wiki/Jean_XXII"
+    },
+    {
+      "year": "1815",
+      "text": "Napoléon Ier part en exil pour l’île de Sainte-Hélène.",
+      "link": "https://fr.wikipedia.org/wiki/Sainte-Hélène_(île)"
+    },
+    {
+      "year": "1914",
+      "text": "Les troupes françaises entrent à Thann (Haut-Rhin), première ville d'Alsace définitivement libérée, pendant la Première Guerre mondiale.",
+      "link": "https://fr.wikipedia.org/wiki/Première_Guerre_mondiale"
+    },
+    {
+      "year": "1942",
+      "text": "Débarquement à Guadalcanal par les Américains.",
+      "link": "https://fr.wikipedia.org/wiki/Guadalcanal"
+    },
+    {
+      "year": "1990",
+      "text": "Les États-Unis lancent l’opération Bouclier du désert, en réaction à l'invasion du Koweït par l'Irak.",
+      "link": "https://fr.wikipedia.org/wiki/Opération_Bouclier_du_désert"
+    }
+  ],
+  "07-09": [
+    {
+      "year": "70",
+      "text": "Fin d'un siège de Jérusalem de six mois par les Romains.",
+      "link": "https://fr.wikipedia.org/wiki/Siège_de_Jérusalem_(70)"
+    },
+    {
+      "year": "1191",
+      "text": "Bataille d'Arsouf (troisième croisade), victoire des croisés.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_d%27Arsouf"
+    },
+    {
+      "year": "1303",
+      "text": "Guillaume de Nogaret, chancelier de Philippe IV le Bel, commet l'attentat d'Anagni, sur le pape Boniface VIII.",
+      "link": "https://fr.wikipedia.org/wiki/Attentat_d%27Anagni"
+    },
+    {
+      "year": "1707",
+      "text": "Naissance de Georges-Louis Leclerc de Buffon, scientifique français († 16 avril 1788).",
+      "link": "https://fr.wikipedia.org/wiki/Georges-Louis_Leclerc_de_Buffon"
+    },
+    {
+      "year": "1812",
+      "text": "Bataille de la Moskowa ou « de Borodino » (campagne de Russie)",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_la_Moskova"
+    }
+  ],
   "07-10": [
     {
       "year": "1337",
@@ -1779,10 +2507,114 @@
       "link": "https://fr.wikipedia.org/wiki/Actes_de_capitulation_du_Troisième_Reich"
     }
   ],
-  "08-06": [],
-  "08-07": [],
-  "08-08": [],
-  "08-09": [],
+  "08-06": [
+    {
+      "year": "793",
+      "text": "Le monastère de Lindisfarne est pillé par les Vikings, c'est le plus ancien raid viking, relaté dans la Chronique anglo-saxonne.",
+      "link": "https://fr.wikipedia.org/wiki/Chronique_anglo-saxonne"
+    },
+    {
+      "year": "1637",
+      "text": "Descates publie le Discours de la méthode.",
+      "link": "https://fr.wikipedia.org/wiki/Discours_de_la_méthode"
+    },
+    {
+      "year": "1795",
+      "text": "Mort de Louis XVII dans la prison du temple.",
+      "link": "https://www.herodote.net/8_juin_1795-evenement-17950608.php"
+    },
+    {
+      "year": "1942",
+      "text": "Naissance de Paul McCartney, un des 4 Beatles.",
+      "link": "https://fr.wikipedia.org/wiki/Paul_McCartney"
+    },
+    {
+      "year": "1955",
+      "text": "Naissance de Timothy Berners-Lee, un physicien et informaticien britannique, inventeur du www.",
+      "link": "https://fr.wikipedia.org/wiki/Tim_Berners-Lee"
+    }
+  ],
+  "08-07": [
+    {
+      "year": "1497",
+      "text": "Départ de la première expédition du navigateur portugais Vasco de Gama.",
+      "link": "https://fr.wikipedia.org/wiki/Vasco_de_Gama"
+    },
+    {
+      "year": "1621",
+      "text": "Naissance de Jean de La Fontaine, poète et fabuliste français († 13 avril 1695).",
+      "link": "https://fr.wikipedia.org/wiki/Jean_de_La_Fontaine"
+    },
+    {
+      "year": "1758",
+      "text": "Bataille de Fort Carillon.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Fort_Carillon"
+    },
+    {
+      "year": "1814",
+      "text": "Le roi Louis XVIII de France annule le changement de noms de communes françaises imposé pendant la Révolution[",
+      "link": "https://fr.wikipedia.org/wiki/Liste_des_communes_françaises_ayant_changé_de_nom_au_cours_de_la_Révolution"
+    },
+    {
+      "year": "1838",
+      "text": "Naissance de Ferdinand von Zeppelin, militaire et ingénieur allemand († 8 mars 1917).",
+      "link": "https://fr.wikipedia.org/wiki/Ferdinand_von_Zeppelin"
+    }
+  ],
+  "08-08": [
+    {
+      "year": "1322",
+      "text": "Au Japon, l’empereur Go-Daigo désigne le monastère Sojiji, comme monastère principal de la secte Sōtō.",
+      "link": "https://fr.wikipedia.org/wiki/Sōji-ji"
+    },
+    {
+      "year": "1570",
+      "text": "Le traité de paix de Saint-Germain-en-Laye met fin à la troisième guerre de religion.",
+      "link": "https://fr.wikipedia.org/wiki/Paix_de_Saint-Germain-en-Laye"
+    },
+    {
+      "year": "1788",
+      "text": "Le roi Louis XVI convoque les États généraux, pour le 5 mai 1789.",
+      "link": "https://fr.wikipedia.org/wiki/États_généraux_(France)"
+    },
+    {
+      "year": "1824",
+      "text": "Naissance de Marie de Hesse et du Rhin, impératrice de Russie, épouse de l’empereur Alexandre II († 8 juin 1880).",
+      "link": "https://fr.wikipedia.org/wiki/Marie_de_Hesse-Darmstadt"
+    },
+    {
+      "year": "1908",
+      "text": "Wilbur Wright effectue son premier vol sur le circuit du Mans. C’est le premier vol de démonstration des frères Wright.",
+      "link": "https://fr.wikipedia.org/wiki/Orville_et_Wilbur_Wright"
+    }
+  ],
+  "08-09": [
+    {
+      "year": "617",
+      "text": "Victoire de Li Yuan à la bataille de Huoyi pendant la transition des Sui aux Tang.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Huoyi"
+    },
+    {
+      "year": "1429",
+      "text": "Attaque de Paris par Jeanne d'Arc, qui est une nouvelle fois blessée.",
+      "link": "https://fr.wikipedia.org/wiki/Jeanne_d%27Arc"
+    },
+    {
+      "year": "1157",
+      "text": "Naissance de Richard Ier « Cœur de Lion », roi d'Angleterre de 1189 à 1199 († 6 avril 1199).",
+      "link": "https://fr.wikipedia.org/wiki/Richard_Cœur_de_Lion"
+    },
+    {
+      "year": "1760",
+      "text": "Capitulation de Montréal face aux armées britanniques.",
+      "link": "https://fr.wikipedia.org/wiki/Montréal#Fin_du_régime_français"
+    },
+    {
+      "year": "1793",
+      "text": "Bataille d'Hondschoote (guerre de la Première Coalition), victoire des républicains sur les coalisés.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Hondschoote"
+    }
+  ],
   "08-10": [
     {
       "year": "451",
@@ -1999,10 +2831,114 @@
       "link": "https://fr.wikipedia.org/wiki/Déclaration_du_9_mai_1950"
     }
   ],
-  "09-06": [],
-  "09-07": [],
-  "09-08": [],
-  "09-09": [],
+  "09-06": [
+    {
+      "year": "721",
+      "text": "A la bataille de Toulouse, le duc d'Aquitaine, Eudes, remporte la victoire sur le gouverneur d'Al-Andalus, mettant fin au siège de la ville.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Toulouse_(721)"
+    },
+    {
+      "year": "1660",
+      "text": "Mariage de Louis XIV de France et de Marie-Thérèse d'Autriche.",
+      "link": "https://fr.wikipedia.org/wiki/Marie-Thérèse_d%27Autriche_(1638-1683)"
+    },
+    {
+      "year": "1800",
+      "text": "Lors de la bataille de Montebello, les troupes françaises, dirigées par Lannes, remportent la victoire sur les Autrichiens.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Montebello_(1800)"
+    },
+    {
+      "year": "1851",
+      "text": "Naissance de Charles Joseph Bonaparte, homme politique américain; 46e procureur général des États-Unis († 28 juin 1921).",
+      "link": "https://fr.wikipedia.org/wiki/Charles_Joseph_Bonaparte"
+    },
+    {
+      "year": "1944",
+      "text": "Le massacre de Tulle, faisant au total 213 victimes civiles, est commis, 72 heures après le débarquement en Normandie.",
+      "link": "https://fr.wikipedia.org/wiki/Massacre_de_Tulle"
+    }
+  ],
+  "09-07": [
+    {
+      "year": "1472",
+      "text": "La ville de Beauvais repousse les armées de Charles le Téméraire grâce aux femmes de la ville dont notamment la célèbre Jeanne Hachette juchées sur leurs remparts.",
+      "link": "https://fr.wikipedia.org/wiki/Jeanne_Hachette"
+    },
+    {
+      "year": "1701",
+      "text": "Naissance de Jean Frédéric Phélypeaux de Maurepas, homme politique français, secrétaire d'État et ministre de la Marine de 1723 à 1749 († 21 novembre 1781).",
+      "link": "https://fr.wikipedia.org/wiki/Jean-Frédéric_Phélypeaux_de_Maurepas"
+    },
+    {
+      "year": "1750",
+      "text": "Publication du Discours sur les Sciences et les Arts de Jean-Jacques Rousseau,",
+      "link": "https://fr.wikipedia.org/wiki/Discours_sur_les_sciences_et_les_arts"
+    },
+    {
+      "year": "1789",
+      "text": "L'Assemblée nationale se transforme en Assemblée Constituante (Révolution française)",
+      "link": "https://fr.wikipedia.org/wiki/Assemblée_nationale_constituante_(1789)#L'Assemblée_constituante_(1789-1791)"
+    },
+    {
+      "year": "1810",
+      "text": "Napoléon annexe la Hollande et la divise en sept départements français.",
+      "link": "https://fr.wikipedia.org/wiki/Pays-Bas#République_batave_et_royaume_de_Hollande_sous_tutelle_française"
+    }
+  ],
+  "09-08": [
+    {
+      "year": "378",
+      "text": "Bataille d’Andrinople, au cours de laquelle l’empereur Valens est défait par les Wisigoths de Fritigern, et est tué.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_d%27Andrinople_(378)"
+    },
+    {
+      "year": "681",
+      "text": "Les Bulgares d’Asparoukh fondent la Bulgarie du Danube,",
+      "link": "https://fr.wikipedia.org/wiki/Khanat_bulgare_du_Danube"
+    },
+    {
+      "year": "870",
+      "text": "Signature du traité de Meerssen qui partage la Lotharingie entre Francie Occidentale (futur royaume de France) et Francie Orientale",
+      "link": "https://fr.wikipedia.org/wiki/Traité_de_Meerssen"
+    },
+    {
+      "year": "1602",
+      "text": "Naissance de Gilles Personne de Roberval, mathématicien et physicien français († 27 octobre 1675).",
+      "link": "https://fr.wikipedia.org/wiki/Gilles_Personne_de_Roberval"
+    },
+    {
+      "year": "1830",
+      "text": "Louis-Philippe Ier devient roi des Français ; proclamation de la monarchie de Juillet.",
+      "link": "https://fr.wikipedia.org/wiki/Monarchie_de_Juillet"
+    }
+  ],
+  "09-09": [
+    {
+      "year": "1379",
+      "text": "Signature du traité de Neuberg.",
+      "link": "https://fr.wikipedia.org/wiki/Traité_de_Neuberg"
+    },
+    {
+      "year": "1543",
+      "text": "Marie Stuart est couronnée reine d'Écosse.",
+      "link": "https://fr.wikipedia.org/wiki/Marie_Stuart"
+    },
+    {
+      "year": "1585",
+      "text": "Naissance de Armand Jean du Plessis de Richelieu, prélat (cardinal) et homme d’État français († 4 décembre 1642).",
+      "link": "https://fr.wikipedia.org/wiki/Armand_Jean_du_Plessis_de_Richelieu"
+    },
+    {
+      "year": "1776",
+      "text": "Les Treize colonies deviennent les États-Unis d'Amérique.",
+      "link": "https://fr.wikipedia.org/wiki/Treize_Colonies"
+    },
+    {
+      "year": "1939",
+      "text": "Début de la bataille de Hel, pendant l'invasion de la Pologne.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Hel"
+    }
+  ],
   "09-10": [
     {
       "year": "- 43",
@@ -2239,10 +3175,114 @@
       "link": "https://www.france-memoire.fr/dossiers/traite-de-francfort%E2%80%AF-lalsace-moselle-est-annexee-a-lempire-allemand/#:~:text=Le%2010%20mai%201871%20est,mémoire%20de%20la%20nation%20française."
     }
   ],
-  "10-06": [],
-  "10-07": [],
-  "10-08": [],
-  "10-09": [],
+  "10-06": [
+    {
+      "year": "1574",
+      "text": "Les troupes royales françaises dirigées par le maréchal de Matignon enlèvent Saint-Lô aux protestants.",
+      "link": "https://fr.wikipedia.org/wiki/Jacques_II_Goyon_de_Matignon"
+    },
+    {
+      "year": "1673",
+      "text": "Naissance de René Duguay-Trouin, corsaire français malouin († 27 septembre 1736).",
+      "link": "https://fr.wikipedia.org/wiki/René_Duguay-Trouin"
+    },
+    {
+      "year": "1794",
+      "text": "La loi du 22 prairial an II instaure la grande Terreur.",
+      "link": "https://fr.wikipedia.org/wiki/Terreur_(Révolution_française)"
+    },
+    {
+      "year": "1940",
+      "text": "Mussolini déclare la guerre à la France.",
+      "link": "https://fr.wikipedia.org/wiki/Benito_Mussolini"
+    },
+    {
+      "year": "1944",
+      "text": "Massacre d'Oradour-sur-Glane, plus grand massacre de civils commis en France par les armées allemandes, qui fait 642 morts.",
+      "link": "https://fr.wikipedia.org/wiki/Massacre_d%27Oradour-sur-Glane"
+    }
+  ],
+  "10-07": [
+    {
+      "year": "511",
+      "text": "Clôture d'un concile d'Orléans qui définit le statut de l'Église dans le royaume franc.",
+      "link": "https://fr.wikipedia.org/wiki/Concile_d%27Orléans_(511)"
+    },
+    {
+      "year": "1509",
+      "text": "Naissance de Jean Calvin, réformateur religieux et humaniste français († 27 mai 1564).",
+      "link": "https://fr.wikipedia.org/wiki/Jean_Calvinrche marengo"
+    },
+    {
+      "year": "1547",
+      "text": "Combat singulier opposant Jarnac à La Châtaigneraie, fatal à ce dernier, en présence de son ami le roi Henri II. Dernier duel judiciaire en France (et découverte du coup de Jarnac).",
+      "link": "https://fr.wikipedia.org/wiki/Coup_de_Jarnac"
+    },
+    {
+      "year": "1897",
+      "text": "La colonne Marchand atteint Fachoda, au Soudan.",
+      "link": "https://fr.wikipedia.org/wiki/Jean-Baptiste_Marchand"
+    },
+    {
+      "year": "1940",
+      "text": "Abolition de la 3e République. Vote des pleins pouvoirs à Philippe Pétain. Début du régime de Vichy.",
+      "link": "https://fr.wikipedia.org/wiki/Régime_de_Vichy"
+    }
+  ],
+  "10-08": [
+    {
+      "year": "1498",
+      "text": "Début du procès pour la dissolution du mariage de Louis XII avec Jeanne de France, afin de permettre son mariage avec Anne de Bretagne.",
+      "link": "https://fr.wikipedia.org/wiki/Louis_XII"
+    },
+    {
+      "year": "1519",
+      "text": "Départ de Fernand de Magellan pour son grand voyage autour du monde.",
+      "link": "https://fr.wikipedia.org/wiki/Fernand_de_Magellan"
+    },
+    {
+      "year": "1792",
+      "text": "Les Tuileries sont assiégées par le peuple, c'est la fin de la monarchie constitutionnelle.",
+      "link": "https://fr.wikipedia.org/wiki/Journée_du_10_août_1792"
+    },
+    {
+      "year": "1889",
+      "text": "Naissance de  Charles Darrow, inventeur américain du jeu Monopoly († 29 août 1967).",
+      "link": "https://fr.wikipedia.org/wiki/Monopoly"
+    },
+    {
+      "year": "1904",
+      "text": "La flotte japonaise détruit la flotte russe devant Port-Arthur.",
+      "link": "https://fr.wikipedia.org/wiki/Lüshunkou"
+    }
+  ],
+  "10-09": [
+    {
+      "year": "1419",
+      "text": "Assassinat de Jean sans Peur sur le pont de Montereau.",
+      "link": "https://fr.wikipedia.org/wiki/Assassinat_de_Jean_sans_Peur"
+    },
+    {
+      "year": "1627",
+      "text": "Début du siège de La Rochelle, dirigé par Louis XIII et Richelieu, contre la ville protestante aux mains des Anglais.",
+      "link": "https://fr.wikipedia.org/wiki/Siège_de_La_Rochelle_(1627-1628)"
+    },
+    {
+      "year": "1638",
+      "text": "Naissance de Marie-Thérèse d'Autriche, épouse de Louis XIV († 30 juillet 1683).",
+      "link": "https://fr.wikipedia.org/wiki/Marie-Thérèse_d%27Autriche_(1638-1683)"
+    },
+    {
+      "year": "1813",
+      "text": "Bataille du lac Érié (guerre anglo-américaine de 1812). Victoire américaine, les États-Unis prennent le contrôle du lac.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_du_lac_Érié"
+    },
+    {
+      "year": "1858",
+      "text": "George Mary Searle découvre (55) Pandore.",
+      "link": "https://fr.wikipedia.org/wiki/(55)_Pandore"
+    }
+  ],
   "10-10": [
     {
       "year": "1684",
@@ -2474,10 +3514,114 @@
       "link": "https://fr.wikipedia.org/wiki/Salvador_Dalí"
     }
   ],
-  "11-06": [],
-  "11-07": [],
-  "11-08": [],
-  "11-09": [],
+  "11-06": [
+    {
+      "year": "1429",
+      "text": "Début de la bataille de Jargeau.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Jargeau"
+    },
+    {
+      "year": "1798",
+      "text": "Napoléon Bonaparte, sur la route de la campagne d'Égypte, s'empare de Malte.",
+      "link": "https://fr.wikipedia.org/wiki/Occupation_française_de_Malte"
+    },
+    {
+      "year": "1842",
+      "text": "Naissance des chemins de fer.",
+      "link": "https://fr.wikipedia.org/wiki/Histoire_des_chemins_de_fer"
+    },
+    {
+      "year": "1864",
+      "text": "Naissance de Richard Strauss, musicien allemand († 8 septembre 1949).",
+      "link": "https://fr.wikipedia.org/wiki/Richard_Strauss"
+    },
+    {
+      "year": "1942",
+      "text": "Fin de la bataille de Bir Hakeim. Les Forces françaises libres évacuent la position, après avoir offert 16 jours de répit aux Alliés, pour préparer leur défense à El Alamein.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Bir_Hakeim"
+    }
+  ],
+  "11-07": [
+    {
+      "year": "911",
+      "text": "Naissance de la Normandie.",
+      "link": "https://www.normandie-tourisme.fr/decouverte/normandie-medievale/vikings-histoire-normandie/"
+    },
+    {
+      "year": "1732",
+      "text": "Naissance de Joseph Jérôme Lefrançois de Lalande, astronome français († 4 avril 1807).",
+      "link": "https://fr.wikipedia.org/wiki/Joseph_Jérôme_Lefrançois_de_Lalande"
+    },
+    {
+      "year": "1789",
+      "text": "Renvoi du ministre Necker par Louis XVI. Ce sera une des causes de la prise de la Bastilles le 14 juillet.",
+      "link": "https://fr.wikipedia.org/wiki/Jacques_Necker"
+    },
+    {
+      "year": "1791",
+      "text": "Voltaire entre au Panthéon.",
+      "link": "https://fr.wikipedia.org/wiki/Voltaire"
+    },
+    {
+      "year": "1947",
+      "text": "Le paquebot Président-Wardfield appareille du port de Sète, France, en direction de la Palestine, avec à son bord, 4 400 juifs, survivants des camps de l'Allemagne nazie. Pendant la traversée, les passagers nomment le navire Exodus en souvenir du périple de Moïse vers la Terre sainte.",
+      "link": "https://fr.wikipedia.org/wiki/Exodus_1947"
+    }
+  ],
+  "11-08": [
+    {
+      "year": "1297",
+      "text": "Canonisation de Louis IX.",
+      "link": "https://fr.wikipedia.org/wiki/Louis_IX"
+    },
+    {
+      "year": "1789",
+      "text": "Publication des décrets sur l'abolition des privilèges féodaux.",
+      "link": "https://fr.wikipedia.org/wiki/Nuit_du_4_août_1789"
+    },
+    {
+      "year": "1837",
+      "text": "Naissance de Sadi Carnot, ingénieur et homme politique français, président de la République française de 1887 à 1894 († 25 juin 1894).",
+      "link": "https://fr.wikipedia.org/wiki/Sadi_Carnot_(homme_d%27État)"
+    },
+    {
+      "year": "1919",
+      "text": "En Allemagne, la république de Weimar promulgue sa nouvelle constitution.",
+      "link": "https://fr.wikipedia.org/wiki/Constitution_de_Weimar"
+    },
+    {
+      "year": "1999",
+      "text": "Eclipse solaire totale en Europe et en Asie, la plus suivie de l'Histoire.",
+      "link": "https://fr.wikipedia.org/wiki/Éclipse_solaire_du_11_août_1999"
+    }
+  ],
+  "11-09": [
+    {
+      "year": "1364",
+      "text": "Naissance de Christine de Pizan, femme de lettres française de naissance vénitienne († ca 1430).",
+      "link": "https://fr.wikipedia.org/wiki/Christine_de_Pizan"
+    },
+    {
+      "year": "1609",
+      "text": "L'expédition d'Henry Hudson entame son exploration du fleuve Hudson.",
+      "link": "https://fr.wikipedia.org/wiki/Henry_Hudson"
+    },
+    {
+      "year": "1802",
+      "text": "Annexion du Piémont par la France.",
+      "link": "https://fr.wikipedia.org/wiki/Piémont"
+    },
+    {
+      "year": "1855",
+      "text": "Victoire alliée et fin du siège de Sébastopol, pendant la guerre de Crimée.",
+      "link": "https://fr.wikipedia.org/wiki/Siège_de_Sébastopol_(1854-1855)"
+    },
+    {
+      "year": "2001",
+      "text": "Attentats du 11 septembre 2001 aux États-Unis provoquant la mort de 2 977 personnes",
+      "link": "https://fr.wikipedia.org/wiki/Attentats_du_11_septembre_2001"
+    }
+  ],
   "11-10": [
     {
       "year": "1443",
@@ -2709,10 +3853,114 @@
       "link": "https://fr.wikipedia.org/wiki/Gabriel_Fauré"
     }
   ],
-  "12-06": [],
-  "12-07": [],
-  "12-08": [],
-  "12-09": [],
+  "12-06": [
+    {
+      "year": "- 1184",
+      "text": "Prise de Troie par les Achéens.",
+      "link": "https://fr.wikipedia.org/wiki/Guerre_de_Troie"
+    },
+    {
+      "year": "1381",
+      "text": "Plusieurs dizaines de milliers de paysans revendiquant la fin du servage en Grande-Bretagne prennent d'assaut Londres.",
+      "link": "https://fr.wikipedia.org/wiki/Révolte_des_paysans_anglais"
+    },
+    {
+      "year": "1429",
+      "text": "Jeanne d'Arc monte aux remparts, en brandissant son étendard, et fait tomber la place de Jargeau.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Jargeau"
+    },
+    {
+      "year": "1908",
+      "text": "Naissance de Henri Rol-Tanguy, homme politique et résistant français († 8 septembre 2002).",
+      "link": "https://fr.wikipedia.org/wiki/Henri_Rol-Tanguy"
+    },
+    {
+      "year": "1936",
+      "text": "La chambre des députés adopte la loi sur la semaine de 40 heures en France",
+      "link": "https://www2.assemblee-nationale.fr/14/evenements/2016/80eme-anniversaire-de-la-victoire-du-front-populaire-3-mai-2016/les-lois-adoptees-en-juin-1936#node_31772"
+    }
+  ],
+  "12-07": [
+    {
+      "year": "1790",
+      "text": "Constitution civile du clergé, les prêtres devient des fonctionnaires payés par l'Etat.",
+      "link": "https://essentiels.bnf.fr/fr/image/f82bd7e4-6161-456e-80b9-368b3f5db339-constitution-civile-clerge"
+    },
+    {
+      "year": "1806",
+      "text": "Signature du traité de la confédération du Rhin, qui marque la fin du Saint-Empire romain germanique.",
+      "link": "https://fr.wikipedia.org/wiki/Traité_de_la_confédération_du_Rhin"
+    },
+    {
+      "year": "1813",
+      "text": "Naissance de Claude Bernard, médecin et physiologiste français († 10 février 1878).",
+      "link": "https://fr.wikipedia.org/wiki/Claude_Bernard"
+    },
+    {
+      "year": "1904",
+      "text": "Naissance de Pablo Nerudato, poète, écrivain, diplomate chilien et prix Nobel de littérature en 1971 († 23 septembre 1973).",
+      "link": "https://fr.wikipedia.org/wiki/Pablo_Neruda"
+    },
+    {
+      "year": "1971",
+      "text": "Début de la démolition des Halles de Paris.",
+      "link": "https://fr.wikipedia.org/wiki/Halles_de_Paris"
+    }
+  ],
+  "12-08": [
+    {
+      "year": "1271",
+      "text": "Sacre du roi de France Philippe III.",
+      "link": "https://fr.wikipedia.org/wiki/Philippe_III_le_Hardi"
+    },
+    {
+      "year": "1737",
+      "text": "Naissance d'Antoine Parmentier, pharmacien, agronome, nutritionniste et hygiéniste français († 17 décembre 1813).",
+      "link": "https://fr.wikipedia.org/wiki/Antoine_Parmentier"
+    },
+    {
+      "year": "1793",
+      "text": "Suite au soulevement de la ville de Lyon contre la Convention, le département du Rhône-et-Loire est séparé en deux nouveaux département.",
+      "link": "https://fr.wikipedia.org/wiki/Rhône-et-Loire#:~:text=Le%20Rhône%2Det%2DLoire%20eut,décidait%20la%20partition%20du%20département."
+    },
+    {
+      "year": "1953",
+      "text": "L'URSS fait exploser sa première bombe H.",
+      "link": "https://fr.wikipedia.org/wiki/Bombe_H"
+    },
+    {
+      "year": "1981",
+      "text": "Présentation de l’IBM PC, troisième ordinateur personnel du constructeur, après les IBM 5100 et 5110.",
+      "link": "https://fr.wikipedia.org/wiki/IBM_PC"
+    }
+  ],
+  "12-09": [
+    {
+      "year": "- 490",
+      "text": "Bataille de Marathon durant les premières guerres médiques.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Marathon#Date_de_la_bataille"
+    },
+    {
+      "year": "1213",
+      "text": "Bataille de Muret (croisade des albigeois).",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Muret"
+    },
+    {
+      "year": "1494",
+      "text": "Naissance de François Ier, roi de France († 31 mars 1547).",
+      "link": "https://fr.wikipedia.org/wiki/François_Ier_(roi_de_France)"
+    },
+    {
+      "year": "1847",
+      "text": "Début de la bataille de Chapultepec (guerre américano-mexicaine).",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Chapultepec"
+    },
+    {
+      "year": "1914",
+      "text": "Fin de la première bataille de la Marne (Première Guerre mondiale).",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_la_Marne_(1914)"
+    }
+  ],
   "12-10": [
     {
       "year": "1428",
@@ -2944,10 +4192,114 @@
       "link": "https://fr.wikipedia.org/wiki/Putsch_d%27Alger_(1958)"
     }
   ],
-  "13-06": [],
-  "13-07": [],
-  "13-08": [],
-  "13-09": [],
+  "13-06": [
+    {
+      "year": "313",
+      "text": "Publication par l'empereur Licinius à Nicomédie de l'édit de Milan accordant la liberté de culte à toutes les religions dans l'empire romain.",
+      "link": "https://fr.wikipedia.org/wiki/Édit_de_Milan"
+    },
+    {
+      "year": "1777",
+      "text": "Lafayette arrive en Amérique.",
+      "link": "https://fr.wikipedia.org/wiki/Gilbert_du_Motier_de_La_Fayette"
+    },
+    {
+      "year": "1808",
+      "text": "Naissance de  Patrice de Mac-Mahon, militaire et homme d'État français, président de la République française de 1875 à 1879 († 17 octobre 1893).",
+      "link": "https://fr.wikipedia.org/wiki/Patrice_de_Mac_Mahon"
+    },
+    {
+      "year": "1917",
+      "text": "Deuxième apparition de la Vierge Marie signalée par des enfants à Fátima au Portugal.",
+      "link": "https://fr.wikipedia.org/wiki/Apparitions_mariales_de_Fátima"
+    },
+    {
+      "year": "1944",
+      "text": "Première offensive de V1 allemands sur la Grande-Bretagne.",
+      "link": "https://fr.wikipedia.org/wiki/V1_(missile)"
+    }
+  ],
+  "13-07": [
+    {
+      "year": "- 100",
+      "text": "Naissance de Jules César, général, homme politique romain et précurseur de l'Empire († assassiné le 15 mars 44 av. J.-C.).",
+      "link": "https://fr.wikipedia.org/wiki/Jules_César"
+    },
+    {
+      "year": "1558",
+      "text": "Bataille de Gravelines.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Gravelines_(1558)"
+    },
+    {
+      "year": "1607",
+      "text": "Henri IV pose un vendredi la première pierre de la chapelle Saint-Louis, qui donnera ensuite son nom à tout le nouvel hôpital parisien éponyme adjacent",
+      "link": "https://fr.wikipedia.org/wiki/Hôpital_Saint-Louis#Historique"
+    },
+    {
+      "year": "1713",
+      "text": "Signature du traité d'Utrecht, qui met fin à la guerre de Succession d'Espagne ; celle-ci y perd toutes ses possessions européennes, et cède Gibraltar et Minorque à la Grande-Bretagne.",
+      "link": "https://fr.wikipedia.org/wiki/Traités_d%27Utrecht"
+    },
+    {
+      "year": "1944",
+      "text": "Début de l'Offensive Lvov-Sandomir par les Soviétiques, sur le front allemand dit de l'Est.",
+      "link": "https://fr.wikipedia.org/wiki/Offensive_de_Lvov-Sandomir"
+    }
+  ],
+  "13-08": [
+    {
+      "year": "1521",
+      "text": "Les troupes espagnoles d’Hernán Cortés s’emparent de la capitale aztèque Tenochtitlan.",
+      "link": "https://fr.wikipedia.org/wiki/Mexico-Tenochtitlan"
+    },
+    {
+      "year": "1532",
+      "text": "Rattachement du duché de Bretagne au royaume de France.",
+      "link": "https://fr.wikipedia.org/wiki/Duché_de_Bretagne"
+    },
+    {
+      "year": "1792",
+      "text": "Emprisonnement de Louis XVI.",
+      "link": "https://fr.wikipedia.org/wiki/Louis_XVI"
+    },
+    {
+      "year": "1899",
+      "text": "Naissance d'Alfred Hitchcock, un réalisateur, scénariste et producteur de cinéma britannique († 29 avril 1980).",
+      "link": "https://fr.wikipedia.org/wiki/Alfred_Hitchcock"
+    },
+    {
+      "year": "1961",
+      "text": "Début de la construction du mur de Berlin.",
+      "link": "https://fr.wikipedia.org/wiki/Mur_de_Berlin"
+    }
+  ],
+  "13-09": [
+    {
+      "year": "1515",
+      "text": "Bataille de Marignan.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Marignan"
+    },
+    {
+      "year": "1722",
+      "text": "Naissance de François Joseph Paul de Grasse, militaire français († 11 janvier 1788).",
+      "link": "https://fr.wikipedia.org/wiki/François_Joseph_Paul_de_Grasse"
+    },
+    {
+      "year": "1743",
+      "text": "Traité de Worms, assurant une première fois l’Alsace, la Lorraine et les Trois-Évêchés à la France.",
+      "link": "https://fr.wikipedia.org/wiki/Traité_de_Worms_(1743)"
+    },
+    {
+      "year": "1759",
+      "text": "Bataille des Plaines d'Abraham (guerre de Sept Ans), victoire des troupes britanniques.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_des_Plaines_d%27Abraham"
+    },
+    {
+      "year": "1791",
+      "text": "L'Assemblée constituante de 1789 fait de la France une monarchie constitutionnelle.",
+      "link": "https://fr.wikipedia.org/wiki/Assemblée_nationale_constituante_(1789)"
+    }
+  ],
   "13-10": [
     {
       "year": "  54",
@@ -3179,10 +4531,114 @@
       "link": "https://fr.wikipedia.org/wiki/John_Charles_Fields"
     }
   ],
-  "14-06": [],
-  "14-07": [],
-  "14-08": [],
-  "14-09": [],
+  "14-06": [
+    {
+      "year": "1736",
+      "text": "Naissance de Charles Augustin de Coulomb, physicien français († 23 août 1806).",
+      "link": "https://fr.wikipedia.org/wiki/Charles-Augustin_Coulomb"
+    },
+    {
+      "year": "1775",
+      "text": "Création de l'US Army.",
+      "link": "https://fr.wikipedia.org/wiki/United_States_Army"
+    },
+    {
+      "year": "1800",
+      "text": "Bataille de Marengo.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Marengo"
+    },
+    {
+      "year": "1807",
+      "text": "Bataille de Friedland",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Friedland"
+    },
+    {
+      "year": "1822",
+      "text": "Charles Babbage propose sa machine à différences à la Royal Astronomical Society.",
+      "link": "https://fr.wikipedia.org/wiki/Machine_à_différences"
+    }
+  ],
+  "14-07": [
+    {
+      "year": "1602",
+      "text": "Naissance de Jules Mazarin, cardinal et homme politique italo-français, ministre d'État de Louis XIV de 1643 à 1661 († 9 mars 1661).",
+      "link": "https://fr.wikipedia.org/wiki/Jules_Mazarin"
+    },
+    {
+      "year": "1789",
+      "text": "L'insurrection parisienne s'empare de la Bastille.",
+      "link": "https://fr.wikipedia.org/wiki/Prise_de_la_Bastille"
+    },
+    {
+      "year": "1790",
+      "text": "Fête de la Fédération",
+      "link": "https://essentiels.bnf.fr/fr/image/7a19b025-e335-4675-a13b-666a7c31095d-fete-la-federation-14-juillet-1790"
+    },
+    {
+      "year": "1865",
+      "text": "Première ascension du Cervin, par Edward Whymper et son groupe.",
+      "link": "https://fr.wikipedia.org/wiki/Première_ascension_du_Cervin"
+    },
+    {
+      "year": "1880",
+      "text": "Première célébration de la fête nationale française du 14 juillet.",
+      "link": "https://fr.wikipedia.org/wiki/Fête_nationale_française"
+    }
+  ],
+  "14-08": [
+    {
+      "year": "1284",
+      "text": "Mariage de Philippe IV de France et de Jeanne Ire de Navarre.",
+      "link": "https://fr.wikipedia.org/wiki/Philippe_IV_le_Bel"
+    },
+    {
+      "year": "1758",
+      "text": "Naissance de Carle Vernet, dessinateur, caricaturiste et peintre français († 27 novembre 1836).",
+      "link": "https://fr.wikipedia.org/wiki/Carle_Vernet"
+    },
+    {
+      "year": "1791",
+      "text": "Cérémonie du Bois-Caïman, acte fondateur de la Révolution haïtienne.",
+      "link": "https://fr.wikipedia.org/wiki/Cérémonie_du_Bois-Caïman"
+    },
+    {
+      "year": "1900",
+      "text": "Fin de la révolte des Boxers.",
+      "link": "https://fr.wikipedia.org/wiki/Révolte_des_Boxers"
+    },
+    {
+      "year": "1980",
+      "text": "Les 17 000 ouvriers des chantiers navals Lénine de Gdańsk se mettent en grève, ce qui conduira à la création du syndicat Solidarność.",
+      "link": "https://fr.wikipedia.org/wiki/Solidarność"
+    }
+  ],
+  "14-09": [
+    {
+      "year": "1180",
+      "text": "Bataille d'Ishibashiyama (guerre de Genpei), victoire des Taira sur les Minamoto.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_d%27Ishibashiyama"
+    },
+    {
+      "year": "1731",
+      "text": "Naissance de Louis-Félix Guynement de Kéralio, militaire et académicien français († 10 décembre 1793).",
+      "link": "https://fr.wikipedia.org/wiki/Louis-Félix_Guynement_de_Kéralio"
+    },
+    {
+      "year": "1791",
+      "text": "L'Assemblée Constituante décréte la réunion d'Avignon et du Comtat Venaissin à la France.",
+      "link": "https://fr.wikipedia.org/wiki/Comtat_Venaissin"
+    },
+    {
+      "year": "1812",
+      "text": "Prise de Moscou par Napoléon Ier.",
+      "link": "https://fr.wikipedia.org/wiki/Prise_de_Moscou"
+    },
+    {
+      "year": "1814",
+      "text": "Francis Scott Key écrit le poème The Star-Spangled Banner, futur hymne des États-Unis.",
+      "link": "https://fr.wikipedia.org/wiki/The_Star-Spangled_Banner"
+    }
+  ],
   "14-10": [
     {
       "year": "1066",
@@ -3414,10 +4870,114 @@
       "link": "https://fr.wikipedia.org/wiki/Philippe_Pétain"
     }
   ],
-  "15-06": [],
-  "15-07": [],
-  "15-08": [],
-  "15-09": [],
+  "15-06": [
+    {
+      "year": "923",
+      "text": "Bataille de Soissons.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Soissons_(923)"
+    },
+    {
+      "year": "1215",
+      "text": "Etablissement de la Magna Carta en Angleterre.",
+      "link": "https://fr.wikipedia.org/wiki/Magna_Carta"
+    },
+    {
+      "year": "1594",
+      "text": "Naissance de Nicolas Poussin, peintre français († 19 novembre 1665).",
+      "link": "https://fr.wikipedia.org/wiki/Nicolas_Poussin"
+    },
+    {
+      "year": "1752",
+      "text": "Benjamin Franklin invente le paratonnerre.",
+      "link": "https://fr.wikipedia.org/wiki/Paratonnerre"
+    },
+    {
+      "year": "1859",
+      "text": "Début de la « guerre du cochon », portant sur la question de l'Oregon.",
+      "link": "https://fr.wikipedia.org/wiki/Litige_sur_la_frontière_de_l%27Oregon"
+    }
+  ],
+  "15-07": [
+    {
+      "year": "1606",
+      "text": "Naissance de Rembrandt, peintre flamand († 4 octobre 1669).",
+      "link": "https://fr.wikipedia.org/wiki/Rembrandt"
+    },
+    {
+      "year": "1789",
+      "text": "Bailly devient le premier maire de Paris. Il restera à son poste jusqu'en novembre 1791.",
+      "link": "https://fr.wikipedia.org/wiki/Jean_Sylvain_Bailly"
+    },
+    {
+      "year": "1801",
+      "text": "Signature du Concordat entre la France et la Papauté (26 messidor an IX).",
+      "link": "https://fr.wikipedia.org/wiki/Régime_concordataire_français#Le_concordat_pour_la_religion_catholique"
+    },
+    {
+      "year": "1804",
+      "text": "L'empereur Napoléon préside à la première distribution de la Légion d'Honneur aux Invalides à Paris.",
+      "link": "https://fr.wikipedia.org/wiki/Ordre_national_de_la_Légion_d%27honneur"
+    },
+    {
+      "year": "1914",
+      "text": "Création de l'impôt sur le revenu.",
+      "link": "https://fr.wikipedia.org/wiki/Impôt_sur_le_revenu_(France)"
+    }
+  ],
+  "15-08": [
+    {
+      "year": "778",
+      "text": "Bataille de Roncevaux.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Roncevaux_(778)"
+    },
+    {
+      "year": "1768",
+      "text": "Louis XV proclame officiellement la réunion de la Corse au royaume de France.",
+      "link": "https://fr.wikipedia.org/wiki/Corse"
+    },
+    {
+      "year": "1769",
+      "text": "Naissance à Ajaccio de Napoléon Bonaparte.",
+      "link": "https://fr.wikipedia.org/wiki/Napoléon_Ier"
+    },
+    {
+      "year": "1771",
+      "text": "Naissance de Walter Scott, écrivain et poète britannique († 21 septembre 1832).",
+      "link": "https://fr.wikipedia.org/wiki/Walter_Scott"
+    },
+    {
+      "year": "1795",
+      "text": "Le franc devient l'unité monétaire légale.",
+      "link": "https://fr.wikipedia.org/wiki/Franc_français"
+    }
+  ],
+  "15-09": [
+    {
+      "year": "1254",
+      "text": "Naissance de Marco Polo, un célèbre marchand, explorateur, diplomate, ethnologue et écrivain vénitien († 8 janvier 1324).",
+      "link": "https://fr.wikipedia.org/wiki/Marco_Polo"
+    },
+    {
+      "year": "1635",
+      "text": "Le flibustier Pierre Belain d'Esnambuc débarque dans la rade de Saint-Pierre, et prend possession de la Martinique au nom du roi de France Louis XIII.",
+      "link": "https://fr.wikipedia.org/wiki/Pierre_Belain_d%27Esnambuc"
+    },
+    {
+      "year": "1762",
+      "text": "Bataille de Signal Hill (guerre de Sept Ans), victoire des troupes britanniques sur les troupes françaises.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Signal_Hill"
+    },
+    {
+      "year": "1918",
+      "text": "Victoire franco-serbe décisive, à la bataille de Dobro Polje, pendant la Première Guerre mondiale.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Dobro_Polje"
+    },
+    {
+      "year": "1935",
+      "text": "Adoption des lois de Nuremberg.",
+      "link": "https://fr.wikipedia.org/wiki/Lois_de_Nuremberg"
+    }
+  ],
   "15-10": [
     {
       "year": "- 70",
@@ -3649,10 +5209,114 @@
       "link": "https://fr.wikipedia.org/wiki/Révolution_culturelle"
     }
   ],
-  "16-06": [],
-  "16-07": [],
-  "16-08": [],
-  "16-09": [],
+  "16-06": [
+    {
+      "year": "1815",
+      "text": "Batailles de Ligny et des Quatre Bras.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_des_Quatre_Bras"
+    },
+    {
+      "year": "1829",
+      "text": "Naissance de Geronimo, chef apache résistant aux envahisseurs européens des « Amériques » († 17 février 1909).",
+      "link": "https://fr.wikipedia.org/wiki/Geronimo"
+    },
+    {
+      "year": "1881",
+      "text": "Loi Jules Ferry qui rend l'école primaire gratuite.",
+      "link": "https://fr.wikipedia.org/wiki/Lois_Jules_Ferry"
+    },
+    {
+      "year": "1940",
+      "text": "Démission du président du Conseil français Paul Reynaud ; Philippe Pétain lui succède.",
+      "link": "https://fr.wikipedia.org/wiki/Paul_Reynaud"
+    },
+    {
+      "year": "1953",
+      "text": "La Russe Valentina Terechkova, âgée de 26 ans, devient la première cosmonaute féminine, à bord de Vostok 6.",
+      "link": "https://fr.wikipedia.org/wiki/Vostok_6"
+    }
+  ],
+  "16-07": [
+    {
+      "year": "1212",
+      "text": "Bataille de Las Navas de Tolosa, en Espagne, étape décisive de la Reconquista.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Las_Navas_de_Tolosa"
+    },
+    {
+      "year": "1536",
+      "text": "Retour à Saint-Malo de la deuxième expédition de Jacques Cartier au Canada.",
+      "link": "https://fr.wikipedia.org/wiki/Jacques_Cartier"
+    },
+    {
+      "year": "1872",
+      "text": "Naissance de Roald Amundsen, un marin et explorateur polaire norvégien († 18 juin 1928).",
+      "link": "https://fr.wikipedia.org/wiki/Roald_Amundsen"
+    },
+    {
+      "year": "1918",
+      "text": "Assassinat de la famille impériale russe, dont le tsar Nicolas II, à Iekaterinbourg en Russie.",
+      "link": "https://fr.wikipedia.org/wiki/Assassinat_de_la_famille_impériale_russe"
+    },
+    {
+      "year": "1942",
+      "text": "Rafle du Vélodrome d'Hiver, la plus grande arrestation massive de Juifs réalisée en France pendant la Seconde Guerre mondiale.",
+      "link": "https://fr.wikipedia.org/wiki/Rafle_du_Vélodrome_d%27Hiver"
+    }
+  ],
+  "16-08": [
+    {
+      "year": "1573",
+      "text": "Naissance d'Anne d’Autriche, archiduchesse d’Autriche, reine consort de Pologne et de Lituanie et reine consort de Suède et de Finlande († 10 février 1598).",
+      "link": "https://fr.wikipedia.org/wiki/Anne_d%27Autriche_(1573-1598)"
+    },
+    {
+      "year": "1780",
+      "text": "Bataille de Camden, pendant la guerre d'indépendance des États-Unis.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Camden"
+    },
+    {
+      "year": "1870",
+      "text": "Bataille de Mars-la-Tour (guerre franco-prussienne de 1870).",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Mars-la-Tour"
+    },
+    {
+      "year": "1914",
+      "text": "Début de la bataille du Cer (Première Guerre mondiale).",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_du_Cer"
+    },
+    {
+      "year": "1995",
+      "text": "La société américaine Microsoft lance le navigateur web Internet Explorer.",
+      "link": "https://fr.wikipedia.org/wiki/Internet_Explorer"
+    }
+  ],
+  "16-09": [
+    {
+      "year": "1620",
+      "text": "Départ du Mayflower, à destination du Nouveau Monde.",
+      "link": "https://fr.wikipedia.org/wiki/Mayflower"
+    },
+    {
+      "year": "1777",
+      "text": "Naissance de Auguste Jean-Gabriel de Caulaincourt, militaire français († 7 septembre 1812).",
+      "link": "https://fr.wikipedia.org/wiki/Auguste_Jean-Gabriel_de_Caulaincourt"
+    },
+    {
+      "year": "1807",
+      "text": "Napoléon Ier crée la Cour des comptes.",
+      "link": "https://fr.wikipedia.org/wiki/Cour_des_comptes_(France)"
+    },
+    {
+      "year": "1810",
+      "text": "Le Grito de Dolores marque le début de la guerre d'indépendance du Mexique.",
+      "link": "https://fr.wikipedia.org/wiki/Grito_de_Dolores"
+    },
+    {
+      "year": "1943",
+      "text": "L'opération Avalanche s'achève par une victoire des Alliés, qui contrôlent ainsi le sud de l'Italie.",
+      "link": "https://fr.wikipedia.org/wiki/Opération_Avalanche"
+    }
+  ],
   "16-10": [
     {
       "year": " 708",
@@ -3879,10 +5543,114 @@
       "link": "https://fr.wikipedia.org/wiki/Brown_v._Board_of_Education"
     }
   ],
-  "17-06": [],
-  "17-07": [],
-  "17-08": [],
-  "17-09": [],
+  "17-06": [
+    {
+      "year": "1242",
+      "text": "Vingt-quatre charretées du Talmud sont solennellement brûlées en place de Grève à Paris.",
+      "link": "https://fr.wikipedia.org/wiki/Procès_du_Talmud"
+    },
+    {
+      "year": "1714",
+      "text": "Naissance de César-François Cassini, astronome français († 4 septembre 1784).",
+      "link": "https://fr.wikipedia.org/wiki/César-François_Cassini"
+    },
+    {
+      "year": "1775",
+      "text": "Bataille de Bunker Hill.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Bunker_Hill"
+    },
+    {
+      "year": "1789",
+      "text": "Les États généraux se transforment en Assemblée nationale.",
+      "link": "https://fr.wikipedia.org/wiki/Assemblée_nationale_constituante_(1789)"
+    },
+    {
+      "year": "1940",
+      "text": "Le maréchal Pétain demande l'armistice à l'Allemagne.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_France#Fall_Rot_(«_plan_rouge_»)_:_l'invasion_de_la_France_et_l'effondrement"
+    }
+  ],
+  "17-07": [
+    {
+      "year": "180",
+      "text": "Décapitation de martyrs scillitains à Carthage.",
+      "link": "https://fr.wikipedia.org/wiki/Martyrs_scillitains"
+    },
+    {
+      "year": "1453",
+      "text": "Bataille de Castillon, dernière grande bataille de la guerre de Cent Ans.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Castillon"
+    },
+    {
+      "year": "1720",
+      "text": "Banqueroute de Law.",
+      "link": "https://fr.wikipedia.org/wiki/Système_de_Law"
+    },
+    {
+      "year": "1789",
+      "text": "Les Parisiens décident de démolire la Bastille sans perdre de temps.",
+      "link": "https://fr.wikipedia.org/wiki/Bastille"
+    },
+    {
+      "year": "1917",
+      "text": "La famille royale britannique est renommée maison de Windsor, en raison de l'antigermanisme de la population.",
+      "link": "https://fr.wikipedia.org/wiki/Maison_Windsor"
+    }
+  ],
+  "17-08": [
+    {
+      "year": "986",
+      "text": "Victoire décisive du tsar Samuel sur Basile II, à la bataille des Portes de Trajan.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_des_Portes_de_Trajan"
+    },
+    {
+      "year": "1585",
+      "text": "Victoire de l'empire espagnol, avec la fin du siège d'Anvers, pendant la guerre de Quatre-Vingts Ans.",
+      "link": "https://fr.wikipedia.org/wiki/Guerre_de_Quatre-Vingts_Ans"
+    },
+    {
+      "year": "1601",
+      "text": "Naissance de Pierre de Fermat, mathématicien français († 12 janvier 1665).",
+      "link": "https://fr.wikipedia.org/wiki/Pierre_de_Fermat"
+    },
+    {
+      "year": "1812",
+      "text": "Bataille de Smolensk (campagne de Russie).",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Smolensk_(1812)"
+    },
+    {
+      "year": "1918",
+      "text": "Début de l'offensive française sur l'Ailette (Première Guerre mondiale).",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_l%27Ailette"
+    }
+  ],
+  "17-09": [
+    {
+      "year": "1630",
+      "text": "Fondation de Boston.",
+      "link": "https://fr.wikipedia.org/wiki/Boston"
+    },
+    {
+      "year": "1665",
+      "text": "Grande peste de Londres, faisant autour de 75 000 morts, soit le cinquième de la population londonienne.",
+      "link": "https://fr.wikipedia.org/wiki/Grande_peste_de_Londres"
+    },
+    {
+      "year": "1743",
+      "text": "Naissance de Nicolas de Condorcet, écrivain, économiste, philosophe, mathématicien et homme politique français († 29 mars 1794).",
+      "link": "https://fr.wikipedia.org/wiki/Nicolas_de_Condorcet"
+    },
+    {
+      "year": "1822",
+      "text": "Jean-François Champollion déchiffre pour la première fois des hiéroglyphes égyptiens antiques.",
+      "link": "https://fr.wikipedia.org/wiki/Écriture_hiéroglyphique_égyptienne"
+    },
+    {
+      "year": "1944",
+      "text": "Début de la bataille d'Arnhem, aux Pays-Bas (seconde guerre mondiale).",
+      "link": "https://fr.wikipedia.org/wiki/Opération_Market_Garden"
+    }
+  ],
   "17-10": [
     {
       "year": "1448",
@@ -4114,10 +5882,114 @@
       "link": "https://fr.wikipedia.org/wiki/Bataille_de_Kolwezi"
     }
   ],
-  "18-06": [],
-  "18-07": [],
-  "18-08": [],
-  "18-09": [],
+  "18-06": [
+    {
+      "year": "1294",
+      "text": "Naissance de Charles IV le Bel, roi de France de 1322 à 1328 († 1er février 1328).",
+      "link": "https://fr.wikipedia.org/wiki/Charles_IV_le_Bel"
+    },
+    {
+      "year": "1812",
+      "text": "Le Congrès des États-Unis déclare la guerre au Royaume-Uni et au Canada.",
+      "link": "https://fr.wikipedia.org/wiki/Guerre_anglo-américaine_de_1812"
+    },
+    {
+      "year": "1815",
+      "text": "Défaite de Waterloo.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Waterloo"
+    },
+    {
+      "year": "1940",
+      "text": "Appel du général de Gaulle.",
+      "link": "https://fr.wikipedia.org/wiki/Appel_du_18_Juin"
+    },
+    {
+      "year": "1983",
+      "text": "Lancement de la navette spatiale Challenger pour une mission STS-7",
+      "link": "https://fr.wikipedia.org/wiki/STS-7"
+    }
+  ],
+  "18-07": [
+    {
+      "year": "64",
+      "text": "Grand incendie de Rome.",
+      "link": "https://fr.wikipedia.org/wiki/Grand_incendie_de_Rome"
+    },
+    {
+      "year": "1668",
+      "text": "Grand Divertissement royal, célébrant à Versailles, le traité d'Aix-la-Chapelle, et au cours duquel est jouée la comédie-ballet de Molière George Dandin ou le Mari confondu.",
+      "link": "https://fr.wikipedia.org/wiki/Fêtes_à_Versailles#Grand_divertissement_royal_(1668)"
+    },
+    {
+      "year": "1870",
+      "text": "Définition du dogme de l'infaillibilité pontificale.",
+      "link": "https://fr.wikipedia.org/wiki/Infaillibilité_pontificale"
+    },
+    {
+      "year": "1918",
+      "text": "Naissance de Nelson Mandela, un homme d'État sud-africain († 5 décembre 2013)",
+      "link": "https://fr.wikipedia.org/wiki/Nelson_Mandela"
+    },
+    {
+      "year": "1936",
+      "text": "Début de la guerre civile espagnole.",
+      "link": "https://fr.wikipedia.org/wiki/Guerre_d%27Espagne"
+    }
+  ],
+  "18-08": [
+    {
+      "year": "856",
+      "text": "Le chef viking Hasting met la ville d’Orléans à sac.",
+      "link": "https://fr.wikipedia.org/wiki/Hasting"
+    },
+    {
+      "year": "1516",
+      "text": "Concordat de Bologne.",
+      "link": "https://fr.wikipedia.org/wiki/Concordat_de_Bologne"
+    },
+    {
+      "year": "1572",
+      "text": "Mariage de Henri de Navarre, futur Henri IV, avec Marguerite de Valois, réunissant à Paris protestants et catholiques.",
+      "link": "https://fr.wikipedia.org/wiki/Marguerite_de_France_(1553-1615)"
+    },
+    {
+      "year": "1789",
+      "text": "Début de la révolution liégeoise.",
+      "link": "https://fr.wikipedia.org/wiki/Révolution_liégeoise"
+    },
+    {
+      "year": "1830",
+      "text": "Naissance de  François-Joseph Ier, empereur d’Autriche et roi de Hongrie, de 1848 à 1916 († 21 novembre 1916).",
+      "link": "https://fr.wikipedia.org/wiki/François-Joseph_Ier"
+    }
+  ],
+  "18-09": [
+    {
+      "year": "1180",
+      "text": "Philippe II Auguste devient roi de France.",
+      "link": "https://fr.wikipedia.org/wiki/Philippe_II_Auguste"
+    },
+    {
+      "year": "1595",
+      "text": "Henri IV est reconnu roi de France par le pape Clément VIII.",
+      "link": "https://fr.wikipedia.org/wiki/Henri_IV_(roi_de_France)"
+    },
+    {
+      "year": "1776",
+      "text": "Fondation de San Francisco.",
+      "link": "https://fr.wikipedia.org/wiki/San_Francisco"
+    },
+    {
+      "year": "1811",
+      "text": "Création du bataillon de sapeurs-pompiers de Paris.",
+      "link": "https://fr.wikipedia.org/wiki/Brigade_de_sapeurs-pompiers_de_Paris"
+    },
+    {
+      "year": "1819",
+      "text": "Naissance de Léon Foucault, physicien et astronome français († 11 février 1868).",
+      "link": "https://fr.wikipedia.org/wiki/Léon_Foucault"
+    }
+  ],
   "18-10": [
     {
       "year": " 629",
@@ -4349,10 +6221,114 @@
       "link": "https://fr.wikipedia.org/wiki/Fernand_Raynaud"
     }
   ],
-  "19-06": [],
-  "19-07": [],
-  "19-08": [],
-  "19-09": [],
+  "19-06": [
+    {
+      "year": "1623",
+      "text": "Naissance de Blaise Pascal, mathématicien, physicien, philosophe, moraliste et théologien français († 19 août 1662).",
+      "link": "https://fr.wikipedia.org/wiki/Blaise_Pascal"
+    },
+    {
+      "year": "1800",
+      "text": "L'armée française, commandée par Moreau, bat les Autrichiens, à la bataille d'Höchstädt.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Höchstädt_(1800)"
+    },
+    {
+      "year": "1865",
+      "text": "L'abolition de l'esclavage est annoncée au Texas. Ce jour est commémoré sous le nom de Juneteenth.",
+      "link": "https://fr.wikipedia.org/wiki/Juneteenth"
+    },
+    {
+      "year": "1953",
+      "text": "Exécution de Julius Rosenberg, et de sa femme Ethel Rosenberg, accusés d'espionnage au profit de l'URSS.",
+      "link": "https://fr.wikipedia.org/wiki/Ethel_et_Julius_Rosenberg"
+    },
+    {
+      "year": "1990",
+      "text": "Signature à Schengen, au Luxembourg, de la convention sur la libre circulation entre la France, la République fédérale d'Allemagne et les trois pays du Benelux.",
+      "link": "https://fr.wikipedia.org/wiki/Convention_de_Schengen"
+    }
+  ],
+  "19-07": [
+    {
+      "year": "711",
+      "text": "Bataille du Guadalete, victoire des troupes du califat omeyyade de Damas sur celles du royaume wisigoth qui précipite la chute de ce dernier et permet la conquête de la péninsule ibérique par des musulmans.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_du_Guadalete"
+    },
+    {
+      "year": "1362",
+      "text": "Le roi d'Angleterre Édouard III prend la décision d'ériger la Guyenne en principauté d'Aquitaine",
+      "link": "https://fr.wikipedia.org/wiki/Liste_des_ducs_d%27Aquitaine"
+    },
+    {
+      "year": "1799",
+      "text": "Découverte de la pierre de Rosette.",
+      "link": "https://fr.wikipedia.org/wiki/Pierre_de_Rosette"
+    },
+    {
+      "year": "1814",
+      "text": "Naissance de Samuel Colt, inventeur américain († 10 janvier 1862).",
+      "link": "https://fr.wikipedia.org/wiki/Samuel_Colt"
+    },
+    {
+      "year": "1900",
+      "text": "Inauguration du métropolitain de Paris.",
+      "link": "https://fr.wikipedia.org/wiki/Métro_de_Paris"
+    }
+  ],
+  "19-08": [
+    {
+      "year": "1153",
+      "text": "Baudouin III de Jérusalem prend Ascalon, dernier bastion fatimide en Palestine.",
+      "link": "https://fr.wikipedia.org/wiki/Siège_d%27Ascalon_(1153)"
+    },
+    {
+      "year": "1871",
+      "text": "Naissance de Orville Wright, aviateur américain († 30 janvier 1948).",
+      "link": "https://fr.wikipedia.org/wiki/Orville_et_Wilbur_Wright"
+    },
+    {
+      "year": "1883",
+      "text": "Naissance de Coco Chanel, une créatrice de mode et grande couturière française († 10 janvier 1971).",
+      "link": "https://fr.wikipedia.org/wiki/Coco_Chanel"
+    },
+    {
+      "year": "1942",
+      "text": "Tentative de débarquement des Canadiens à Dieppe (Seconde Guerre mondiale).",
+      "link": "https://fr.wikipedia.org/wiki/Raid_de_Dieppe"
+    },
+    {
+      "year": "1960",
+      "text": "Lancement de Spoutnik 5, lors duquel Belka, Strelka et plusieurs dizaines d'autres animaux, deviennent les premiers à être placés en orbite spatiale, puis ramenés vivants.",
+      "link": "https://fr.wikipedia.org/wiki/Spoutnik_5"
+    }
+  ],
+  "19-09": [
+    {
+      "year": "1356",
+      "text": "Bataille de Poitiers (guerre de Cent Ans), victoire du Prince noir anglais et capture du roi de France Jean II le Bon.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Poitiers_(1356)"
+    },
+    {
+      "year": "1551",
+      "text": "Naissance de Henri III, roi de Pologne de 1573 à 1575 puis de France de 1574 à 1589 († 2 août 1589).",
+      "link": "https://fr.wikipedia.org/wiki/Henri_III_(roi_de_France)"
+    },
+    {
+      "year": "1799",
+      "text": "Victoire franco-batave, à la bataille de Bergen, pendant la campagne de Hollande.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Bergen_(1799)"
+    },
+    {
+      "year": "1931",
+      "text": "Début de la conquête de la Mandchourie par le Japon.",
+      "link": "https://fr.wikipedia.org/wiki/Invasion_japonaise_de_la_Mandchourie"
+    },
+    {
+      "year": "1944",
+      "text": "L'armistice de Moscou est signé par la Finlande et l'Union soviétique, mettant fin à la guerre de Continuation.",
+      "link": "https://fr.wikipedia.org/wiki/Armistice_de_Moscou"
+    }
+  ],
   "19-10": [
     {
       "year": "- 202",
@@ -4579,10 +6555,114 @@
       "link": "https://fr.wikipedia.org/wiki/Cuba"
     }
   ],
-  "20-06": [],
-  "20-07": [],
-  "20-08": [],
-  "20-09": [],
+  "20-06": [
+    {
+      "year": "1789",
+      "text": "Serment du jeu de paume.",
+      "link": "https://www.chateauversailles.fr/decouvrir/histoire/les-grandes-dates/serment-jeu-paume"
+    },
+    {
+      "year": "1791",
+      "text": "Dans la nuit, Louis XVI et sa famille s'enfuient du palais des Tuileries.",
+      "link": "https://www.histoirealacarte.com/index.php/la-révolution-française-1789-1799/la-fuite-a-varennes"
+    },
+    {
+      "year": "1819",
+      "text": "Naissance de Jacques Offenbach, musicien français († 5 octobre 1880).",
+      "link": "https://fr.wikipedia.org/wiki/Jacques_Offenbach"
+    },
+    {
+      "year": "1936",
+      "text": "Création des congés payés.",
+      "link": "https://fr.wikipedia.org/wiki/Congés_payés_en_droit_français"
+    },
+    {
+      "year": "1944",
+      "text": "Victoire américaine décisive, à la bataille de la mer des Philippines, pendant la Guerre du Pacifique.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_la_mer_des_Philippines"
+    }
+  ],
+  "20-07": [
+    {
+      "year": "1397",
+      "text": "Les royaumes de Suède, de Norvège et du Danemark s'unissent lors de la signature de l'union de Kalmar.",
+      "link": "https://fr.wikipedia.org/wiki/Union_de_Kalmar"
+    },
+    {
+      "year": "1873",
+      "text": "Naissance de Alberto Santos-Dumont, aviateur brésilien († 23 juillet 1932).",
+      "link": "https://fr.wikipedia.org/wiki/Alberto_Santos-Dumont"
+    },
+    {
+      "year": "1944",
+      "text": "Complot contre Adolf Hitler",
+      "link": "https://fr.wikipedia.org/wiki/Le_20_Juillet"
+    },
+    {
+      "year": "1954",
+      "text": "Accords de Genève, fin de la guerre d'Indochine.",
+      "link": "https://fr.wikipedia.org/wiki/Accords_de_Genève"
+    },
+    {
+      "year": "1969",
+      "text": "Le module lunaire d'Apollo 11 se pose sur la Lune, transportant à son bord Neil Armstrong et Buzz Aldrin.",
+      "link": "https://fr.wikipedia.org/wiki/Apollo_11"
+    }
+  ],
+  "20-08": [
+    {
+      "year": "1119",
+      "text": "Bataille de Brémule, défaite du roi de France Louis VI le Gros face aux Normands.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Brémule"
+    },
+    {
+      "year": "1625",
+      "text": "Naissance de  Thomas Corneille, écrivain français († 8 décembre 1709).",
+      "link": "https://fr.wikipedia.org/wiki/Thomas_Corneille"
+    },
+    {
+      "year": "1940",
+      "text": "Léon Trotski est mortellement blessé par Ramón Mercader.",
+      "link": "https://fr.wikipedia.org/wiki/Léon_Trotski"
+    },
+    {
+      "year": "1968",
+      "text": "L'invasion de la Tchécoslovaquie par les troupes du Pacte de Varsovie met fin au printemps de Prague.",
+      "link": "https://fr.wikipedia.org/wiki/Invasion_de_la_Tchécoslovaquie_par_le_pacte_de_Varsovie"
+    },
+    {
+      "year": "1988",
+      "text": "Fin de la guerre Iran-Irak.",
+      "link": "https://fr.wikipedia.org/wiki/Guerre_Iran-Irak"
+    }
+  ],
+  "20-09": [
+    {
+      "year": "- 52",
+      "text": "Défaite d'Alésia, Vercingétorix et les siens se rendent.",
+      "link": "https://fr.wikipedia.org/wiki/Siège_d%27Alésia"
+    },
+    {
+      "year": "1697",
+      "text": "Traité de Ryswick, mettant fin à la guerre entre Louis XIV et la ligue d'Augsbourg.",
+      "link": "https://fr.wikipedia.org/wiki/Traité_de_Ryswick"
+    },
+    {
+      "year": "1792",
+      "text": "Victoire de Valmy.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Valmy"
+    },
+    {
+      "year": "1792",
+      "text": "La Convention tient sa première scéance.",
+      "link": "https://fr.wikipedia.org/wiki/Convention_nationale"
+    },
+    {
+      "year": "1872",
+      "text": "Naissance de Maurice Gamelin, militaire français († 18 avril 1958).",
+      "link": "https://fr.wikipedia.org/wiki/Maurice_Gamelin"
+    }
+  ],
   "20-10": [
     {
       "year": "1587",
@@ -4799,10 +6879,114 @@
       "link": "https://fr.wikipedia.org/wiki/Enregistreur-lecteur_de_bande_magnétique"
     }
   ],
-  "21-06": [],
-  "21-07": [],
-  "21-08": [],
-  "21-09": [],
+  "21-06": [
+    {
+      "year": "- 217",
+      "text": "Le consul romain Flaminius Nepos est sévèrement battu par le Carthaginois Hannibal Barca lors de la bataille du lac Trasimène en Italie centrale ombrienne.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_du_lac_Trasimène"
+    },
+    {
+      "year": "1781",
+      "text": "Naissance de Siméon Denis Poisson, mathématicien, géomètre et physicien français († 25 avril 1840).",
+      "link": "https://fr.wikipedia.org/wiki/Siméon_Denis_Poisson"
+    },
+    {
+      "year": "1791",
+      "text": "A Varennes, le roi Louis XVI est arreté et ramené à Paris.",
+      "link": "https://www.histoirealacarte.com/index.php/la-révolution-française-1789-1799/la-fuite-a-varennes"
+    },
+    {
+      "year": "1813",
+      "text": "Bataille de Vitoria.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Vitoria"
+    },
+    {
+      "year": "1943",
+      "text": "Arrestation de Jean Moulin.",
+      "link": "https://fr.wikipedia.org/wiki/Jean_Moulin"
+    }
+  ],
+  "21-07": [
+    {
+      "year": "- 356",
+      "text": "Naissance de Alexandre le Grand, roi de Macédoine à partir de -336 et conquérant du proche-Orient († 11 juin -323).",
+      "link": "https://fr.wikipedia.org/wiki/Alexandre_le_Grand"
+    },
+    {
+      "year": "365",
+      "text": "Un tremblement de terre ravage l'île de la Crête. Le tsunami consécutif atteint les côtes de Libye et d'Égypte.",
+      "link": "https://fr.wikipedia.org/wiki/Séisme_du_21_juillet_365_en_Crète"
+    },
+    {
+      "year": "1242",
+      "text": "Seconde bataille de Taillebourg.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Taillebourg"
+    },
+    {
+      "year": "1798",
+      "text": "Bataille des pyramides.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_des_Pyramides"
+    },
+    {
+      "year": "1969",
+      "text": "Neil Armstrong marche sur la lune avec Buzz Aldrin pour la première fois.",
+      "link": "https://fr.wikipedia.org/wiki/Neil_Armstrong"
+    }
+  ],
+  "21-08": [
+    {
+      "year": "1165",
+      "text": "Naissance de Philippe II dit Philippe Auguste, roi de France de 1180 à 1223 († 14 juillet 1223).",
+      "link": "https://fr.wikipedia.org/wiki/Philippe_II_Auguste"
+    },
+    {
+      "year": "1745",
+      "text": "La future Catherine II de Russie épouse le futur tsar Pierre III à Saint-Pétersbourg.",
+      "link": "https://fr.wikipedia.org/wiki/Catherine_II"
+    },
+    {
+      "year": "1831",
+      "text": "Début d'une violente révolte en Virginie, dirigée par l'ancien esclave noir Nat Turner.",
+      "link": "https://fr.wikipedia.org/wiki/Révolte_de_Nat_Turner"
+    },
+    {
+      "year": "1914",
+      "text": "Début de la bataille de Charleroi.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Charleroi"
+    },
+    {
+      "year": "1959",
+      "text": "Hawaï devient le 50e État des États-Unis.",
+      "link": "https://fr.wikipedia.org/wiki/Hawaï"
+    }
+  ],
+  "21-09": [
+    {
+      "year": "1435",
+      "text": "Le traité d'Arras met fin à la guerre civile entre Armagnacs et Bourguignons.",
+      "link": "https://fr.wikipedia.org/wiki/Traité_d%27Arras_(1435)"
+    },
+    {
+      "year": "1711",
+      "text": "Prise de Rio de Janeiro par Duguay-Trouin.",
+      "link": "https://fr.wikipedia.org/wiki/René_Duguay-Trouin#La_grande_expédition_de_Rio_(1711)"
+    },
+    {
+      "year": "1756",
+      "text": "Naissance de John Loudon McAdam, ingénieur britannique († 26 novembre 1836).",
+      "link": "https://fr.wikipedia.org/wiki/John_Loudon_McAdam"
+    },
+    {
+      "year": "1776",
+      "text": "Le Grand Incendie de New York de 1776 dévaste une partie de la ville, peu de temps après son occupation par les troupes britanniques.",
+      "link": "https://fr.wikipedia.org/wiki/Grand_Incendie_de_New_York_de_1776"
+    },
+    {
+      "year": "2001",
+      "text": "Explosion de l'usine AZF de Toulouse, qui provoque 31 morts, 2 500 blessés, et de lourds dégâts matériels.",
+      "link": "https://fr.wikipedia.org/wiki/Explosion_de_l%27usine_AZF_de_Toulouse"
+    }
+  ],
   "21-10": [
     {
       "year": "1097",
@@ -5034,10 +7218,114 @@
       "link": "https://fr.wikipedia.org/wiki/Commune_de_Paris"
     }
   ],
-  "22-06": [],
-  "22-07": [],
-  "22-08": [],
-  "22-09": [],
+  "22-06": [
+    {
+      "year": "1372",
+      "text": "Bataille de La Rochelle.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_La_Rochelle_(1372)"
+    },
+    {
+      "year": "1476",
+      "text": "Bataille de Morat.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Morat"
+    },
+    {
+      "year": "1653",
+      "text": "Naissance de André Hercule de Fleury, cardinal et homme d'État français, ministre / conseiller de Louis XV jeune († 29 janvier 1743).",
+      "link": "https://fr.wikipedia.org/wiki/André_Hercule_de_Fleury"
+    },
+    {
+      "year": "1815",
+      "text": "Abdication de Napoléon Ier.",
+      "link": "https://fr.wikipedia.org/wiki/Seconde_abdication_de_Napoléon_Ier"
+    },
+    {
+      "year": "1940",
+      "text": "Signature de l'armistice entre la France et l'Allemagne.",
+      "link": "https://fr.wikipedia.org/wiki/Armistice_du_22_juin_1940"
+    }
+  ],
+  "22-07": [
+    {
+      "year": "1209",
+      "text": "Sac de Béziers durant la croisade des albigeois.",
+      "link": "https://fr.wikipedia.org/wiki/Siège_de_Béziers"
+    },
+    {
+      "year": "1443",
+      "text": "Victoire de la confédération des VIII cantons sur Zurich et le Saint-Empire.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Saint-Jacques_sur_la_Sihl"
+    },
+    {
+      "year": "1812",
+      "text": "Bataille des Arapiles.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_des_Arapiles"
+    },
+    {
+      "year": "1916",
+      "text": "Naissance de Marcel Cerdan, champion français de boxe († 28 octobre 1949).",
+      "link": "https://fr.wikipedia.org/wiki/Marcel_Cerdan"
+    },
+    {
+      "year": "1969",
+      "text": "Le général Franco désigne le prince Juan Carlos comme son successeur à la tête de l'Espagne.",
+      "link": "https://fr.wikipedia.org/wiki/Francisco_Franco"
+    }
+  ],
+  "22-08": [
+    {
+      "year": "851",
+      "text": "Victoire d'Erispoë, le roi breton d'Armorique, sur Charles le Chauve, le roi de Francie occidentale, à la bataille de Jengland.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Jengland"
+    },
+    {
+      "year": "1485",
+      "text": "Victoire des Lancastre sur les York, lors de la bataille de Bosworth (guerre des Deux-Roses).",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Bosworth"
+    },
+    {
+      "year": "1642",
+      "text": "Début de la première guerre civile anglaise.",
+      "link": "https://fr.wikipedia.org/wiki/Première_guerre_civile_anglaise"
+    },
+    {
+      "year": "1798",
+      "text": "Débarquement de l'expédition d'Irlande, pour soutenir la rébellion en cours dans l'île.",
+      "link": "https://fr.wikipedia.org/wiki/Expédition_d%27Irlande_(1798)"
+    },
+    {
+      "year": "1862",
+      "text": "Naissance de  Claude Debussy, compositeur français († 25 mars 1918).",
+      "link": "https://fr.wikipedia.org/wiki/Claude_Debussy"
+    }
+  ],
+  "22-09": [
+    {
+      "year": "1499",
+      "text": "Traité de Bâle. Le Saint-Empire romain germanique reconnaît la Confédération suisse et met fin aux guerres de Souabe.",
+      "link": "https://fr.wikipedia.org/wiki/Traité_de_Bâle_(1499)"
+    },
+    {
+      "year": "1601",
+      "text": "Naissance de Anne d'Autriche, reine de France de 1615 à 1651, régente de 1643 à 1651 († 20 janvier 1666).",
+      "link": "https://fr.wikipedia.org/wiki/Anne_d%27Autriche_(1601-1666)"
+    },
+    {
+      "year": "1609",
+      "text": "Philippe III d'Espagne promulgue la loi d'expulsion des Morisques.",
+      "link": "https://fr.wikipedia.org/wiki/Expulsion_des_morisques_d%27Espagne"
+    },
+    {
+      "year": "1792",
+      "text": "Proclamation de la République",
+      "link": "https://www.lhistoire.fr/22-septembre-1792-le-jour-où-la-france-est-devenue-républicaine"
+    },
+    {
+      "year": "1914",
+      "text": "Le sous-marin allemand U-9 coule successivement les croiseurs cuirassés HMS Aboukir, Hogue, et Cressy",
+      "link": "https://fr.wikipedia.org/wiki/Unterseeboot_9_(1910)"
+    }
+  ],
   "22-10": [
     {
       "year": " 451",
@@ -5254,10 +7542,114 @@
       "link": "https://fr.wikipedia.org/wiki/Java_(langage)"
     }
   ],
-  "23-06": [],
-  "23-07": [],
-  "23-08": [],
-  "23-09": [],
+  "23-06": [
+    {
+      "year": "1314",
+      "text": "Bataille de Bannockburn.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Bannockburn"
+    },
+    {
+      "year": "1703",
+      "text": "Naissance de  Marie Leszczyńska, princesse de Pologne et reine de France, épouse de Louis XV († 24 juin 1768).",
+      "link": "https://fr.wikipedia.org/wiki/Marie_Leszczynska"
+    },
+    {
+      "year": "1763",
+      "text": "Naissance de Joséphine de Beauharnais (Marie Josèphe Rose Tascher de La Pagerie ), impératrice des Français de 1804 à 1809, et première épouse de l'empereur Napoléon Ier († 29 mai 1814).",
+      "link": "https://fr.wikipedia.org/wiki/Joséphine_de_Beauharnais"
+    },
+    {
+      "year": "1894",
+      "text": "Création du Comité international olympique.",
+      "link": "https://fr.wikipedia.org/wiki/Comité_international_olympique"
+    },
+    {
+      "year": "1961",
+      "text": "Entrée en vigueur du traité sur l'Antarctique.",
+      "link": "https://fr.wikipedia.org/wiki/Traité_sur_l%27Antarctique"
+    }
+  ],
+  "23-07": [
+    {
+      "year": "1632",
+      "text": "Plus de 300 personnes quittent Dieppe, et émigrent pour la Nouvelle-France.",
+      "link": "https://fr.wikipedia.org/wiki/Nouvelle-France"
+    },
+    {
+      "year": "1789",
+      "text": "Jacques Necker arrivant de Bâle rentre à Versailles et réinstalle son ministère. Il reprend le contrôle des Finances.",
+      "link": "https://fr.wikipedia.org/wiki/Jacques_Necker"
+    },
+    {
+      "year": "1840",
+      "text": "Publication de l'Acte d'Union, adopté par le Parlement du Royaume-Uni pour créer la province du Canada.",
+      "link": "https://fr.wikipedia.org/wiki/Acte_d%27Union_(1840)"
+    },
+    {
+      "year": "1914",
+      "text": "L'Autriche-Hongrie adresse un ultimatum à la Serbie, à la suite de l'attentat de Sarajevo.",
+      "link": "https://fr.wikipedia.org/wiki/Ultimatum_du_23_juillet_1914"
+    },
+    {
+      "year": "1925",
+      "text": "Naissance de Alain Decaux, journaliste et homme de télévision et de radio français spécialisé en vulgarisation historique, académicien († 27 mars 2016).",
+      "link": "https://fr.wikipedia.org/wiki/Alain_Decaux"
+    }
+  ],
+  "23-08": [
+    {
+      "year": "476",
+      "text": "Odoacre est proclamé roi d'Italie.",
+      "link": "https://fr.wikipedia.org/wiki/Odoacre"
+    },
+    {
+      "year": "1372",
+      "text": "Bataille de Soubise",
+      "link": "https://fr.wikipedia.org/wiki/Siège_de_Soubise"
+    },
+    {
+      "year": "1754",
+      "text": "Naissance du futur Louis XVI.",
+      "link": "https://fr.wikipedia.org/wiki/Louis_XVI"
+    },
+    {
+      "year": "1793",
+      "text": "Réorganisation des corps d’infanterie français, visant à fusionner les anciens régiments royaux et les bataillons de volontaires",
+      "link": "https://fr.wikipedia.org/wiki/Réorganisation_des_corps_d%27infanterie_français_(1793)"
+    },
+    {
+      "year": "1914",
+      "text": "Bataille de Tannenberg (Première Guerre mondiale). Victoire des Allemands sur les Russes.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Tannenberg_(1914)"
+    }
+  ],
+  "23-09": [
+    {
+      "year": "1122",
+      "text": "Le concordat de Worms met fin à la querelle des Investitures.",
+      "link": "https://fr.wikipedia.org/wiki/Concordat_de_Worms"
+    },
+    {
+      "year": "1459",
+      "text": "Premier affrontement majeur entre la Maison de Lancastre et la Maison d'York, à la bataille de Blore Heath.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Blore_Heath"
+    },
+    {
+      "year": "1491",
+      "text": "Naissance de  Jacques Cartier, navigateur malouin et français († 1er septembre 1557).",
+      "link": "https://fr.wikipedia.org/wiki/Jacques_Cartier"
+    },
+    {
+      "year": "1905",
+      "text": "La Norvège et la Suède signent le traité de Karlstad, rendant la dissolution de l'union entre les deux pays officielle.",
+      "link": "https://fr.wikipedia.org/wiki/Histoire_de_la_Scandinavie#Su.C3.A8de-Norv.C3.A8ge"
+    },
+    {
+      "year": "1913",
+      "text": "L'aviateur Roland Garros réussit la première traversée aérienne sans escale de la Méditerranée.",
+      "link": "https://fr.wikipedia.org/wiki/Roland_Garros"
+    }
+  ],
   "23-10": [
     {
       "year": " 425",
@@ -5463,10 +7855,114 @@
       "link": "https://fr.wikipedia.org/wiki/Bob_Dylan"
     }
   ],
-  "24-06": [],
-  "24-07": [],
-  "24-08": [],
-  "24-09": [],
+  "24-06": [
+    {
+      "year": "1340",
+      "text": "Bataille navale de l'Écluse.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_L%27Écluse_(1340)"
+    },
+    {
+      "year": "1768",
+      "text": "Naissance de Lazare Hoche, général français de la Révolution († 19 septembre 1797).",
+      "link": "https://fr.wikipedia.org/wiki/Lazare_Hoche"
+    },
+    {
+      "year": "1793",
+      "text": "Adoption de la Constitution de l'an I, ce 6 messidor an I,",
+      "link": "https://fr.wikipedia.org/wiki/Constitution_du_6_messidor_an_I"
+    },
+    {
+      "year": "1812",
+      "text": "Au début de la campagne de Russie, la Grande Armée de Napoléon franchit le Niémen, et pénètre dans l'Empire russe.",
+      "link": "https://fr.wikipedia.org/wiki/Campagne_de_Russie"
+    },
+    {
+      "year": "1859",
+      "text": "Victoire sanglante des troupes de Napoléon III, sur les forces autrichiennes, à Solférino, en Italie.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Solférino"
+    }
+  ],
+  "24-07": [
+    {
+      "year": "1534",
+      "text": "Le Malouin Jacques Cartier prend possession du Canada au nom du roi de France. Il met pied à terre à Gaspé, y plante une croix de trente pieds.",
+      "link": "https://fr.wikipedia.org/wiki/Jacques_Cartier"
+    },
+    {
+      "year": "1702",
+      "text": "Les protestants des Cévennes prennent les armes. C'est le début de la guerre des Camisards.",
+      "link": "https://fr.wikipedia.org/wiki/Guerre_des_Cévennes"
+    },
+    {
+      "year": "1783",
+      "text": "Naissance de Simon Bolivar, un général et homme d'État vénézuélien († 17 décembre 1830).",
+      "link": "https://fr.wikipedia.org/wiki/Simón_Bolívar"
+    },
+    {
+      "year": "1897",
+      "text": "Naissance d'Amelia Earhart,  une aviatrice américaine († 2 juillet 1937).",
+      "link": "https://fr.wikipedia.org/wiki/Amelia_Earhart"
+    },
+    {
+      "year": "1967",
+      "text": "A Montréal (Québec), discours du président Charles de Gaulle, au cours duquel il lance : Vive le Québec libre !",
+      "link": "https://fr.wikipedia.org/wiki/Vive_le_Québec_libre_!"
+    }
+  ],
+  "24-08": [
+    {
+      "year": "79",
+      "text": "Léruption du Vésuve ensevelit, sous les cendres volcaniques, les villes de Pompéi et d’Herculanum.",
+      "link": "https://fr.wikipedia.org/wiki/Destruction_de_Pompéi"
+    },
+    {
+      "year": "1572",
+      "text": "Massacre de la Saint-Barthélémy.",
+      "link": "https://fr.wikipedia.org/wiki/Massacre_de_la_Saint-Barthélemy"
+    },
+    {
+      "year": "1750",
+      "text": "Naissance de Letizia Bonaparte, mère de Napoléon Ier († 2 février 1836).",
+      "link": "https://fr.wikipedia.org/wiki/Letizia_Bonaparte"
+    },
+    {
+      "year": "1789",
+      "text": "L'article 11, de la déclaration française des Droits de l'Homme et du Citoyen, affirme la liberté de la presse en France.",
+      "link": "https://fr.wikipedia.org/wiki/Déclaration_des_droits_de_l%27homme_et_du_citoyen_de_1789"
+    },
+    {
+      "year": "1944",
+      "text": "Libération de l'Hôtel de Ville de Paris, par la 2e Division Blindée.",
+      "link": "https://fr.wikipedia.org/wiki/2e_division_blindée_(France)"
+    }
+  ],
+  "24-09": [
+    {
+      "year": "622",
+      "text": "Début de l'an 1 de l'islam par l'hégire (l'exil), le départ de Mahomet (Muhammad) de la Mecque pour Médine, en Arabie médiévale.",
+      "link": "https://fr.wikipedia.org/wiki/Hégire"
+    },
+    {
+      "year": "1452",
+      "text": "Naissance de Jérôme Savonarole, frère dominicain, prédicateur et réformateur italien († 23 mai 1498).",
+      "link": "https://fr.wikipedia.org/wiki/Jérôme_Savonarole"
+    },
+    {
+      "year": "1572",
+      "text": "Le dernier héritier inca, Túpac Amaru, est décapité.",
+      "link": "https://fr.wikipedia.org/wiki/Túpac_Amaru"
+    },
+    {
+      "year": "1803",
+      "text": "Réorganisation des corps d'infanterie français par le premier consul.",
+      "link": "https://fr.wikipedia.org/wiki/Réorganisation_des_corps_d%27infanterie_français_(1803)"
+    },
+    {
+      "year": "1853",
+      "text": "La Nouvelle-Calédonie est proclamée colonie française.",
+      "link": "https://fr.wikipedia.org/wiki/Histoire_de_la_Nouvelle-Calédonie#La_prise_de_possession_par_la_France_(1853-1854)"
+    }
+  ],
   "24-10": [
     {
       "year": "  79",
@@ -5672,9 +8168,87 @@
       "link": "https://fr.wikipedia.org/wiki/René_Coty"
     }
   ],
-  "25-06": [],
-  "25-07": [],
-  "25-08": [],
+  "25-06": [
+    {
+      "year": "1435",
+      "text": "La cavalerie française massacre les archers anglais lors de la bataille de Martignas en Aquitaine.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Martignas"
+    },
+    {
+      "year": "1658",
+      "text": "Folle Journée de Dunkerque : au petit matin, la ville espagnole se rend aux assiégeants français, qui, en vertu du traité de Paris, la confient aux Anglais de Cromwell : la cité change ainsi trois fois de nationalité en moins d'une journée.",
+      "link": "https://fr.wikipedia.org/wiki/Histoire_de_Dunkerque"
+    },
+    {
+      "year": "1852",
+      "text": "Naissance de Antoni Gaudí, architecte espagnol († 10 juin 1926).",
+      "link": "https://fr.wikipedia.org/wiki/Antoni_Gaudí"
+    },
+    {
+      "year": "1876",
+      "text": "Bataille de Little Big Horn.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Little_Bighorn"
+    },
+    {
+      "year": "1948",
+      "text": "Le général Clay donne l'ordre de lancer la mise en place d'un gigantesque pont aérien, pour ravitailler Berlin-Ouest.",
+      "link": "https://fr.wikipedia.org/wiki/Blocus_de_Berlin"
+    }
+  ],
+  "25-07": [
+    {
+      "year": "325",
+      "text": "Clôture du Ier concile de Nicée.",
+      "link": "https://fr.wikipedia.org/wiki/Premier_concile_de_Nicée"
+    },
+    {
+      "year": "1137",
+      "text": "Mariage du roi de France Louis VII dit le jeune et d'Aliénor d'Aquitaine.",
+      "link": "https://fr.wikipedia.org/wiki/Aliénor_d%27Aquitaine"
+    },
+    {
+      "year": "1772",
+      "text": "Premier partage de la Pologne, entre la Russie, l'Autriche et la Prusse.",
+      "link": "https://fr.wikipedia.org/wiki/Premier_partage_de_la_Pologne"
+    },
+    {
+      "year": "1909",
+      "text": "Louis Blériot traverse la Manche.",
+      "link": "https://fr.wikipedia.org/wiki/Louis_Blériot"
+    },
+    {
+      "year": "1920",
+      "text": "Naissance de Rosalind Franklin, une physicochimiste britannique († 16 avril 1958).",
+      "link": "https://fr.wikipedia.org/wiki/Rosalind_Franklin"
+    }
+  ],
+  "25-08": [
+    {
+      "year": "1580",
+      "text": "Bataille d’Alcántara, victoire des forces espagnoles du duc d’Albe sur les Portugais.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_d%27Alcántara"
+    },
+    {
+      "year": "1624",
+      "text": "Naissance de François d’Aix de La Chaise, confesseur du roi Louis XIV († 20 janvier 1709).",
+      "link": "https://fr.wikipedia.org/wiki/François_d%27Aix_de_La_Chaise"
+    },
+    {
+      "year": "1704",
+      "text": "Prise de Gibraltar par les Britanniques.",
+      "link": "https://fr.wikipedia.org/wiki/Gibraltar#Histoire"
+    },
+    {
+      "year": "1819",
+      "text": "Présentation du Radeau de La Méduse, tableau de Géricault qui suscite le scandale.",
+      "link": "https://fr.wikipedia.org/wiki/Le_Radeau_de_la_Méduse"
+    },
+    {
+      "year": "2012",
+      "text": "La sonde Voyager 1 entre dans l'espace interstellaire, étant le premier objet artificiel à le faire.",
+      "link": "https://fr.wikipedia.org/wiki/Voyager_1"
+    }
+  ],
   "25-09": [
     {
       "year": "275",
@@ -5907,9 +8481,87 @@
       "link": "https://fr.wikipedia.org/wiki/Traités_SALT#Accords_SALT_I"
     }
   ],
-  "26-06": [],
-  "26-07": [],
-  "26-08": [],
+  "26-06": [
+    {
+      "year": "1794",
+      "text": "Victoire de Fleurus.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Fleurus_(1794)"
+    },
+    {
+      "year": "1954",
+      "text": "Naissance de Philippe Evrard, mon papy qui m'a aidé à réaliser ce site.",
+      "link": ""
+    },
+    {
+      "year": "1963",
+      "text": "Visite du président des États-Unis John F. Kennedy à Berlin, où il prononce sa fameuse phrase « Ich bin ein Berliner ».",
+      "link": "https://fr.wikipedia.org/wiki/Ich_bin_ein_Berliner"
+    },
+    {
+      "year": "1966",
+      "text": "Naissance de Dany Boon (Daniel Hamidou dit), humoriste français.",
+      "link": "https://fr.wikipedia.org/wiki/Dany_Boon"
+    },
+    {
+      "year": "1972",
+      "text": "Naissance de Garou (Pierre Garand dit), chanteur canadien.",
+      "link": "https://fr.wikipedia.org/wiki/Garou"
+    }
+  ],
+  "26-07": [
+    {
+      "year": "1340",
+      "text": "Siège et bataille de Saint-Omer. La victoire française contribuera au retrait des troupes anglaises (début de la guerre de Cent Ans).",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Saint-Omer_(1340)"
+    },
+    {
+      "year": "1547",
+      "text": "Henri II est couronné roi de France, en la cathédrale de Reims.",
+      "link": "https://fr.wikipedia.org/wiki/Henri_II_(roi_de_France)"
+    },
+    {
+      "year": "1830",
+      "text": "Publication des Quatre Ordonnances du roi de France Charles X.",
+      "link": "https://fr.wikipedia.org/wiki/Ordonnances_de_Saint-Cloud"
+    },
+    {
+      "year": "1856",
+      "text": "Naissance de  George Bernard Shaw, écrivain irlandais, prix Nobel de littérature en 1925 († 2 novembre 1950).",
+      "link": "https://fr.wikipedia.org/wiki/George_Bernard_Shaw"
+    },
+    {
+      "year": "1908",
+      "text": "Création du Bureau of Investigation (B.O.I.), futur Federal Bureau of Investigations (F.B.I.), par Charles Joseph Bonaparte, aux États-Unis.",
+      "link": "https://fr.wikipedia.org/wiki/Charles_Joseph_Bonaparte"
+    }
+  ],
+  "26-08": [
+    {
+      "year": "1346",
+      "text": "Bataille de Crécy.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Crécy"
+    },
+    {
+      "year": "1743",
+      "text": "Naissance de Antoine Lavoisier, chimiste français († 8 mai 1794).",
+      "link": "https://fr.wikipedia.org/wiki/Antoine_Lavoisier"
+    },
+    {
+      "year": "1789",
+      "text": "Déclaration des droits de l'homme.",
+      "link": "https://fr.wikipedia.org/wiki/Déclaration_des_droits_de_l%27homme_et_du_citoyen_de_1789"
+    },
+    {
+      "year": "1813",
+      "text": "Début de la bataille de Dresde (campagne d’Allemagne), victoire de la Grande Armée.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Dresde"
+    },
+    {
+      "year": "1944",
+      "text": "Charles de Gaulle, rentré dans Paris la veille, traverse les Champs-Élysées à la tête d'un abondant cortège.",
+      "link": "https://fr.wikipedia.org/wiki/Charles_de_Gaulle"
+    }
+  ],
   "26-09": [
     {
       "year": "1350",
@@ -6132,9 +8784,87 @@
       "link": "https://fr.wikipedia.org/wiki/Bataille_de_Bir_Hakeim"
     }
   ],
-  "27-06": [],
-  "27-07": [],
-  "27-08": [],
+  "27-06": [
+    {
+      "year": "992",
+      "text": "Seconde bataille de Conquereuil, victoire du comte d'Anjou Foulques III Nerra sur Conan Ier de Bretagne qui y fait partie des victimes",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Conquereuil_(992)"
+    },
+    {
+      "year": "1492",
+      "text": "Naissance de Louis XII, roi de France de 1498 à sa mort († 1er janvier 1515).",
+      "link": "https://fr.wikipedia.org/wiki/Louis_XII"
+    },
+    {
+      "year": "1789",
+      "text": "Face à la résistance des députés du tiers état, soutenus par le bas clergé et une cinquantaine de nobles, le roi Louis XVI invite les trois ordres à débattre ensemble, l'Assemblée nationale constituante devenant légitime et la Révolution légale.",
+      "link": "https://fr.wikipedia.org/wiki/Assemblée_nationale_constituante_(1789)"
+    },
+    {
+      "year": "1905",
+      "text": "Début de la mutinerie du cuirassé Potemkine.",
+      "link": "https://fr.wikipedia.org/wiki/Mutinerie_du_cuirassé_Potemkine"
+    },
+    {
+      "year": "1954",
+      "text": "L’URSS est le premier pays à ouvrir une centrale nucléaire celle d'Obninsk pour produire de l’électricité.",
+      "link": "https://fr.wikipedia.org/wiki/Centrale_nucléaire_d%27Obninsk"
+    }
+  ],
+  "27-07": [
+    {
+      "year": "1214",
+      "text": "Bataille de Bouvines.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Bouvines"
+    },
+    {
+      "year": "1447",
+      "text": "Jacques Cœur, grand argentier du roi Charles VII, est l'instigateur d'une ordonnance décidant la frappe de pièces d'argent de bon aloi et que l'on a appelé le « Gros de Jacques Cœur ».",
+      "link": "https://fr.wikipedia.org/wiki/Jacques_Cœur"
+    },
+    {
+      "year": "1563",
+      "text": "Lors des guerres de religion, les Français réoccupent Le Havre, dont la garnison anglaise est décimée par la peste.",
+      "link": "https://fr.wikipedia.org/wiki/Le_Havre"
+    },
+    {
+      "year": "1776",
+      "text": "Naissance de  Pierre Daumesnil, général français († 17 août 1832).",
+      "link": "https://fr.wikipedia.org/wiki/Pierre_Daumesnil"
+    },
+    {
+      "year": "1830",
+      "text": "Insurrection de Paris, première journée des « Trois Glorieuses », baptisées ainsi par Honoré de Balzac en 1847.",
+      "link": "https://fr.wikipedia.org/wiki/Trois_Glorieuses"
+    }
+  ],
+  "27-08": [
+    {
+      "year": "- 479",
+      "text": "Bataille de Platées durant les guerres médiques.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Platées"
+    },
+    {
+      "year": "1664",
+      "text": "Colbert fonde la Compagnie française des Indes orientales.",
+      "link": "https://fr.wikipedia.org/wiki/Compagnie_française_des_Indes_orientales"
+    },
+    {
+      "year": "1776",
+      "text": "Bataille de Long Island (guerre d’indépendance des États-Unis). Défaite des insurgés américains.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Long_Island"
+    },
+    {
+      "year": "1883",
+      "text": "Eruption du Krakatoa, en Indonésie. 36 417 morts.",
+      "link": "https://fr.wikipedia.org/wiki/Éruption_du_Krakatoa_en_1883"
+    },
+    {
+      "year": "1899",
+      "text": "Naissance de Cecil Scott « C.S. » Forester (Cecil Louis Troughton Smith dit), auteur britannique († 2 avril 1966).",
+      "link": "https://fr.wikipedia.org/wiki/C._S._Forester"
+    }
+  ],
   "27-09": [
     {
       "year": "1601",
@@ -6372,9 +9102,87 @@
       "link": "https://fr.wikipedia.org/wiki/Reinhard_Heydrich"
     }
   ],
-  "28-06": [],
-  "28-07": [],
-  "28-08": [],
+  "28-06": [
+    {
+      "year": "1389",
+      "text": "Bataille de Kosovo Polje.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Kosovo_Polje"
+    },
+    {
+      "year": "1577",
+      "text": "Naissance de Pierre-Paul Rubens, peintre flamand († 30 mai 1640).",
+      "link": "https://fr.wikipedia.org/wiki/Pierre_Paul_Rubens"
+    },
+    {
+      "year": "1629",
+      "text": "Promulgation de la paix d'Alès.",
+      "link": "https://fr.wikipedia.org/wiki/Paix_d%27Alès"
+    },
+    {
+      "year": "1635",
+      "text": "La Guadeloupe devient une colonie française.",
+      "link": "https://fr.wikipedia.org/wiki/Histoire_de_la_Guadeloupe"
+    },
+    {
+      "year": "1914",
+      "text": "Attentat de Sarajevo",
+      "link": "https://fr.wikipedia.org/wiki/Attentat_de_Sarajevo"
+    }
+  ],
+  "28-07": [
+    {
+      "year": "1750",
+      "text": "Naissance de Fabre d'Églantine (Philippe-François-Nazaire Fabre dit), acteur, dramaturge, poète et homme politique français († 5 avril 1794).",
+      "link": "https://fr.wikipedia.org/wiki/Fabre_d%27Églantine"
+    },
+    {
+      "year": "1794",
+      "text": "Exécution des frères Robespierre, de Saint-Just, Couthon, marquant la fin de la Terreur révolutionnaire.",
+      "link": "https://fr.wikipedia.org/wiki/Maximilien_de_Robespierre"
+    },
+    {
+      "year": "1808",
+      "text": "Napoléon Bonaparte, en visite à Montauban, décide de faire de cette ville le chef-lieu du nouveau département de Tarn-et-Garonne.",
+      "link": "https://fr.wikipedia.org/wiki/Tarn-et-Garonne"
+    },
+    {
+      "year": "1830",
+      "text": "Deuxième journée des « Trois Glorieuses »",
+      "link": "https://fr.wikipedia.org/wiki/Trois_Glorieuses"
+    },
+    {
+      "year": "1914",
+      "text": "L'Autriche-Hongrie déclare la guerre à la Serbie (début de la Première Guerre mondiale).",
+      "link": "https://fr.wikipedia.org/wiki/Première_Guerre_mondiale"
+    }
+  ],
+  "28-08": [
+    {
+      "year": "1793",
+      "text": "Début du siège de Toulon (guerres de la Révolution française).",
+      "link": "https://fr.wikipedia.org/wiki/Siège_de_Toulon_(1793)"
+    },
+    {
+      "year": "1828",
+      "text": "Naissance de Léon Tolstoï, un écrivain russe († 7 novembre 1910).",
+      "link": "https://fr.wikipedia.org/wiki/Léon_Tolstoï"
+    },
+    {
+      "year": "1833",
+      "text": "Abolition de l'esclavage dans l'Empire britannique, par le Slavery Abolition Act 1833.",
+      "link": "https://fr.wikipedia.org/wiki/Slavery_Abolition_Act_1833"
+    },
+    {
+      "year": "1862",
+      "text": "Seconde bataille de Bull Run (guerre de Sécession), victoire des confédérés sur les unionistes.",
+      "link": "https://fr.wikipedia.org/wiki/Seconde_bataille_de_Bull_Run"
+    },
+    {
+      "year": "1914",
+      "text": "Bataille de Heligoland (Première Guerre mondiale).",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Heligoland_(1914)"
+    }
+  ],
   "28-09": [
     {
       "year": "1781",
@@ -6607,9 +9415,87 @@
       "link": "https://fr.wikipedia.org/wiki/John_Fitzgerald_Kennedy"
     }
   ],
-  "29-06": [],
-  "29-07": [],
-  "29-08": [],
+  "29-06": [
+    {
+      "year": "1776",
+      "text": "Fondation de la ville de San Francisco par le père François (Francisco) Palou.",
+      "link": "https://fr.wikipedia.org/wiki/San_Francisco#Histoire"
+    },
+    {
+      "year": "1793",
+      "text": "Bataille de Nantes, pendant la guerre de Vendée.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Nantes_(1793)"
+    },
+    {
+      "year": "1880",
+      "text": "La France annexe l'île de Tahiti.",
+      "link": "https://fr.wikipedia.org/wiki/Tahiti"
+    },
+    {
+      "year": "1886",
+      "text": "Naissance de Robert Schuman, homme politique français, président du Conseil des ministres français de 1947 à 1948, l'un des pères fondateurs de l'Union européenne († 4 septembre 1963).",
+      "link": "https://fr.wikipedia.org/wiki/Robert_Schuman"
+    },
+    {
+      "year": "1946",
+      "text": "Opération Agatha, menée par les autorités britanniques contre les groupes sionistes, en Palestine mandataire.",
+      "link": "https://fr.wikipedia.org/wiki/Opération_Agatha"
+    }
+  ],
+  "29-07": [
+    {
+      "year": "- 586",
+      "text": "Nabuchodonosor II entre dans Jérusalem après un siège de deux années, la ville est pillée et brûlée et le premier Temple (du roi Salomon) est rasé.",
+      "link": "https://fr.wikipedia.org/wiki/Nabuchodonosor_II"
+    },
+    {
+      "year": "1830",
+      "text": "Troisième journée des « Trois Glorieuses »",
+      "link": "https://fr.wikipedia.org/wiki/Trois_Glorieuses"
+    },
+    {
+      "year": "1836",
+      "text": "Adolphe Thiers inaugure l’Arc de triomphe de l'Étoile, voulu par Napoléon Ier.",
+      "link": "https://fr.wikipedia.org/wiki/Arc_de_triomphe_de_l%27Étoile"
+    },
+    {
+      "year": "1883",
+      "text": "https://fr.wikipedia.org/wiki/Arc_de_triomphe_de_l%27Étoile",
+      "link": "https://fr.wikipedia.org/wiki/Benito_Mussolini"
+    },
+    {
+      "year": "1939",
+      "text": "Décret de création du bataillon de marins-pompiers de Marseille.",
+      "link": "https://fr.wikipedia.org/wiki/Bataillon_de_marins-pompiers_de_Marseille"
+    }
+  ],
+  "29-08": [
+    {
+      "year": "1475",
+      "text": "Traité de Picquigny, mettant officiellement fin à la guerre de Cent Ans.",
+      "link": "https://fr.wikipedia.org/wiki/Traité_de_Picquigny"
+    },
+    {
+      "year": "1619",
+      "text": "Naissance de Jean-Baptiste Colbert, homme d'État français, ministre de Louis XIV († 6 septembre 1683).",
+      "link": "https://fr.wikipedia.org/wiki/Jean-Baptiste_Colbert"
+    },
+    {
+      "year": "1756",
+      "text": "Début de la guerre de Sept Ans.",
+      "link": "https://fr.wikipedia.org/wiki/Guerre_de_Sept_Ans"
+    },
+    {
+      "year": "1805",
+      "text": "Naissance de la Grande Armée napoléonienne.",
+      "link": "https://fr.wikipedia.org/wiki/Grande_Armée"
+    },
+    {
+      "year": "1831",
+      "text": "Michael Faraday invente la dynamo.",
+      "link": "https://fr.wikipedia.org/wiki/Dynamo"
+    }
+  ],
   "29-09": [
     {
       "year": "-106",
@@ -6826,9 +9712,87 @@
       "link": "https://fr.wikipedia.org/wiki/Chronologie_des_événements_de_mai_-_juin_1968"
     }
   ],
-  "30-06": [],
-  "30-07": [],
-  "30-08": [],
+  "30-06": [
+    {
+      "year": "451",
+      "text": "Les hordes huniques d'Attila ayant renoncé à prendre Paris se rabattent sur Orléans qu'elles mettent à sac",
+      "link": "https://fr.wikipedia.org/wiki/Attila"
+    },
+    {
+      "year": "1559",
+      "text": "Le roi Henri II est blessé grièvement, au cours d'une joute équestre organisée à Paris, rue Saint-Antoine",
+      "link": "https://fr.wikipedia.org/wiki/Henri_II_(roi_de_France)#Mort_et_succession"
+    },
+    {
+      "year": "1748",
+      "text": "Naissance de Jean-Dominique Cassini de Thiry, astronome français († 18 octobre 1845).",
+      "link": "https://fr.wikipedia.org/wiki/Jean-Dominique_Cassini_(1748-1845)"
+    },
+    {
+      "year": "1791",
+      "text": "L'Assemblée Constituante décréte que dans toute l'armée le premier drapeau de chaque régiment portera les trois couleurs nationales.",
+      "link": "https://fr.wikipedia.org/wiki/Drapeau_de_la_France#Les_drapeaux_militaires_et_l'uniformisation_napoléonienne"
+    },
+    {
+      "year": "1934",
+      "text": "Lors de la nuit des Longs Couteaux, Adolf Hitler lance les SS de Himmler contre les SA de Röhm.",
+      "link": "https://fr.wikipedia.org/wiki/Nuit_des_longs_couteaux"
+    }
+  ],
+  "30-07": [
+    {
+      "year": "- 101",
+      "text": "Bataille de Verceil durant la guerre des Cimbres.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Verceil_(101_av._J.-C.)"
+    },
+    {
+      "year": "1419",
+      "text": "Première défenestration de Prague.",
+      "link": "https://fr.wikipedia.org/wiki/Défenestration_de_Prague_(1419)"
+    },
+    {
+      "year": "1729",
+      "text": "Fondation de la ville de Baltimore.",
+      "link": "https://fr.wikipedia.org/wiki/Baltimore"
+    },
+    {
+      "year": "1818",
+      "text": "Naissance de Emily Brontë, femme de lettres britannique († 19 décembre 1848).",
+      "link": "https://fr.wikipedia.org/wiki/Emily_Brontë"
+    },
+    {
+      "year": "1936",
+      "text": "Création du billet de congé annuel en France dit billet Léo Lagrange.",
+      "link": "https://fr.wikipedia.org/wiki/Billet_populaire_de_congés_annuel"
+    }
+  ],
+  "30-08": [
+    {
+      "year": "1813",
+      "text": "Bataille de Fort Mims, pendant la guerre Creek.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Fort_Mims"
+    },
+    {
+      "year": "1870",
+      "text": "Bataille de Beaumont (guerre franco-allemande de 1870). Victoire des Prussiens sur les Français.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_de_Beaumont"
+    },
+    {
+      "year": "1912",
+      "text": "Naissance de Nancy Wake, une journaliste australienne engagée dans la Résistance française pendant la Seconde Guerre mondiale († 7 août 2011).",
+      "link": "https://fr.wikipedia.org/wiki/Nancy_Wake"
+    },
+    {
+      "year": "1940",
+      "text": "Lors du 2e arbitrage de Vienne, la Roumanie est contrainte de céder le nord de la Transylvanie à la Hongrie.",
+      "link": "https://fr.wikipedia.org/wiki/Deuxième_arbitrage_de_Vienne"
+    },
+    {
+      "year": "1984",
+      "text": "Lancement de STS-41-D, première mission de la navette spatiale américaine Discovery.",
+      "link": "https://fr.wikipedia.org/wiki/Navette_spatiale_américaine"
+    }
+  ],
   "30-09": [
     {
       "year": "489",
@@ -7033,8 +9997,60 @@
       "link": "https://fr.wikipedia.org/wiki/Bataille_du_Jutland"
     }
   ],
-  "31-07": [],
-  "31-08": [],
+  "31-07": [
+    {
+      "year": "1358",
+      "text": "Assassinat d'Étienne Marcel par des Parisiens. Il refusait de laisser entrer dans la ville les troupes navarraises et anglaises, commandées par un prince de sang cousin du roi Jean II.",
+      "link": "https://fr.wikipedia.org/wiki/Étienne_Marcel"
+    },
+    {
+      "year": "1914",
+      "text": "Assassinat de Jean Jaurès.",
+      "link": "https://fr.wikipedia.org/wiki/Assassinat_de_Jean_Jaurès"
+    },
+    {
+      "year": "1919",
+      "text": "L'Allemagne adopte la Constitution de Weimar.",
+      "link": "https://fr.wikipedia.org/wiki/République_de_Weimar"
+    },
+    {
+      "year": "1965",
+      "text": "Naissance de Joanne K. Rowling, une romancière et scénariste britannique.",
+      "link": "https://fr.wikipedia.org/wiki/J._K._Rowling"
+    },
+    {
+      "year": "1971",
+      "text": "Les astronautes américains de la mission Apollo 15 effectuent une excursion de six heures et demie sur la Lune à bord du rover lunaire.",
+      "link": "https://fr.wikipedia.org/wiki/Apollo_15"
+    }
+  ],
+  "31-08": [
+    {
+      "year": "1798",
+      "text": "Proclamation de la république du Connaught pendant la rébellion irlandaise de 1798.",
+      "link": "https://fr.wikipedia.org/wiki/République_du_Connaught"
+    },
+    {
+      "year": "1870",
+      "text": "Naissance de Maria Montessori, une médecin et pédagogue italienne († 6 mai 1952).",
+      "link": "https://fr.wikipedia.org/wiki/Maria_Montessori"
+    },
+    {
+      "year": "1907",
+      "text": "Convention anglo-russe de 1907, et naissance de la Triple-Entente.",
+      "link": "https://fr.wikipedia.org/wiki/Convention_anglo-russe_de_1907"
+    },
+    {
+      "year": "1918",
+      "text": "Début de la bataille du mont Saint-Quentin, pendant la Première Guerre mondiale.",
+      "link": "https://fr.wikipedia.org/wiki/Bataille_du_mont_Saint-Quentin"
+    },
+    {
+      "year": "1939",
+      "text": "Opération Himmler (invasion de la Pologne par l'Allemagne nazie).",
+      "link": "https://fr.wikipedia.org/wiki/Opération_Himmler"
+    }
+  ],
   "31-10": [
     {
       "year": " 475",
